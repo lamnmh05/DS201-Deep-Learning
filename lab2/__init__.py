@@ -1,0 +1,1 @@
+from lab2 import lenet

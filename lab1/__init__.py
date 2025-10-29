@@ -1,0 +1,1 @@
+from lab1 import mnist
