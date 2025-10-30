@@ -8,6 +8,8 @@ from lab1.mnist import MNISTDataset, collate_fn
 from lab2.lenet import LeNet
 from lab2.vinafood21 import VinaFood21, vinafood_collate_fn
 from lab2.googlenet import GoogLeNet
+from lab2.resnet18 import ResNet18
+from lab2.pretrained_resnet import PretrainedResnet
 
 # LOGGING CONFIGURATION
 logging.basicConfig(
@@ -53,10 +55,16 @@ vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, s
 
 model_1 = LeNet().to(device)
 model_2 = GoogLeNet(num_classes=21).to(device)
+model_3 = ResNet18(num_classes=21).to(device)
+model_4 = PretrainedResnet().to(device)
 
 loss_fn = torch.nn.CrossEntropyLoss()
+
 optimizer_1 = torch.optim.Adam(model_1.parameters(), lr=learning_rate)
 optimizer_2 = torch.optim.Adam(model_2.parameters(), lr=learning_rate)
+optimizer_3 = torch.optim.Adam(model_3.parameters(), lr=learning_rate)
+optimizer_4 = torch.optim.Adam(model_4.parameters(), lr=learning_rate)
+
 
 
 
@@ -122,24 +130,30 @@ def train(dataloader, model, loss_fn, optimizer, epochs) -> None:
 
 # MAIN FUNCTION
 def main():
-    # logger.info("Training LeNet model")
-    # train(mnist_train_dataloader, model_1, loss_fn, optimizer_1, EPOCHS)
-    # metrics_1 = evaluate(mnist_test_dataloader, model_1)
-    # logger.info(f"Metrics for LeNet model: {metrics_1}")
+    logger.info("Training LeNet model")
+    train(mnist_train_dataloader, model_1, loss_fn, optimizer_1, EPOCHS)
+    metrics_1 = evaluate(mnist_test_dataloader, model_1)
+    logger.info(f"Metrics for LeNet model: {metrics_1}")
+    print(f"Metrics for LeNet model: {metrics_2}")
 
     logger.info("Training GoogLeNet model")
     train(vinafood21_train_dataloader, model_2, loss_fn, optimizer_2, EPOCHS)
     metrics_2 = evaluate(vinafood21_test_dataloader, model_2)
-    logger.info(f"Metrics for LeNet model: {metrics_2}")
+    logger.info(f"Metrics for GoogLeNet model: {metrics_2}")
+    print(f"Metrics for GoogLeNet model: {metrics_2}")
 
-    # for image in vinafood21_train_dataset:
-    #     images = image["image"]
-    #     print(images.shape)   # <--- check shape here
-    #     break
-    # for batch in vinafood21_train_dataloader:
-    #     images = batch["image"]
-    #     print(images.shape)   # <--- check shape here
-    #     break
+    logger.info("Training ResNet18 model")
+    train(vinafood21_train_dataloader, model_3, loss_fn, optimizer_3, EPOCHS)
+    metrics_3 = evaluate(vinafood21_test_dataloader, model_3)
+    logger.info(f"Metrics for ResNet18 model: {metrics_3}")
+    print(f"Metrics for ResNet18 model: {metrics_3}")
+
+    logger.info("Training Pre-trained ResNet model")
+    train(vinafood21_train_dataloader, model_4, loss_fn, optimizer_4, EPOCHS)
+    metrics_4 = evaluate(vinafood21_test_dataloader, model_4)
+    logger.info(f"Metrics for Pre-trained ResNet model: {metrics_4}")
+    print(f"Metrics for Pre-trained ResNet model: {metrics_4}")
+
 
 if __name__ == "__main__":
     main()
