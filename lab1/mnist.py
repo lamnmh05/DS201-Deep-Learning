@@ -49,12 +49,12 @@ class MNISTDataset(Dataset):
 
 if __name__ == "__main__":
     train_dataset = MNISTDataset(
-        img_path= r"mnist\train-images.idx3-ubyte",
-        label_path= r"mnist\train-labels.idx1-ubyte",
+        img_path= r"lab1\mnist\train-images.idx3-ubyte",
+        label_path= r"lab1\mnist\train-labels.idx1-ubyte",
     )
     test_dataset = MNISTDataset(
-        img_path= r"mnist\t10k-images.idx3-ubyte",
-        label_path= r"mnist\t10k-labels.idx1-ubyte",
+        img_path= r"lab1\mnist\t10k-images.idx3-ubyte",
+        label_path= r"lab1\mnist\t10k-labels.idx1-ubyte",
     )
 
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn,)
