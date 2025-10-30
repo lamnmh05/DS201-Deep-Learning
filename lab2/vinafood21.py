@@ -1,9 +1,11 @@
 import os
 
 import numpy as np
-import cv2 as cv
+from PIL import Image
 import torch
 from torch.utils.data import Dataset, DataLoader
+from torchvision import transforms
+
 
 def vinafood_collate_fn(samples: list[dict]) -> dict[dict]:
     items =  [
@@ -28,59 +30,57 @@ def vinafood_collate_fn(samples: list[dict]) -> dict[dict]:
     
 
 class VinaFood21(Dataset):
-    def __init__(self, path: str, image_size: tuple = (224,224)) -> None:
+    def __init__(self, root_path: str, image_size: tuple = (224,224)) -> None:
         super().__init__()
         
         self.image_size = image_size
+        self.image_file_paths = []
+        self.labels = []
+
         self.label2id = {}
         self.id2label = {}
 
-        self.data: list[dict] = self.load_data(path)
+        folders = os.listdir(root_path)
 
-    def load_data(self, path: str) -> list[dict]:
-        data = []
-        label_id = 0
-
-        for folder in os.listdir(path):
+        for idx, folder in enumerate(folders):
             label = folder
             if label not in self.label2id:
-                self.label2id[label] = label_id
-                label_id += 1
+                self.label2id[label] = idx
             
-            for image_file in os.listdir(os.path.join(path, folder)):
-                image = cv.imread(os.path.join(path, folder, image_file))
-                data.append(
-                    {
-                        'image': image,
-                        'label': label,
-                    }
-                )
+            folder_path = os.path.join(root_path, folder)
+            image_files = os.listdir(folder_path)
 
+            for image_file in image_files:
+                image_path = os.path.join(folder_path, image_file)
+                self.image_file_paths.append(image_path)
+                self.labels.append(self.label2id[label])
+                
         self.id2label = {
             id: label
             for label, id in self.label2id.items()
         }
-        return data
 
+        self.transform = transforms.Compose([
+            transforms.Resize(self.image_size),
+            transforms.ToTensor(),        # Convert to (C, H, W) with [0,1]
+        ])
 
     def __len__(self) -> int:
-        return len(self.data)
-
+        return len(self.image_file_paths)
 
     def __getitem__(self, index: int) -> dict:
-        item = self.data[index]
 
-        image = item['image']
-        label = item['label']
+        image_path = self.image_file_paths[index]
+        image = Image.open(image_path).convert('RGB')
+        image = self.transform(image)
 
-        image = cv.resize(image, self.image_size) # (h, w, 3)
-        image = np.transpose(image, (2, 0, 1)) # (3, h, w)
+        label = self.labels[index]
+        label = torch.tensor(self.labels[index], dtype=torch.long)
 
-        label_id = self.label2id[label]
 
         return {
             'image': image,
-            'label': label_id
+            'label': label
         }
     
 
@@ -88,7 +88,7 @@ class VinaFood21(Dataset):
 if __name__ == '__main__':
     dummy_path = 'lab2\VinaFood21\dummy'
 
-    dummy_data = VinaFood21(path=dummy_path, image_size=(26,26))
+    dummy_data = VinaFood21(root_path=dummy_path, image_size=(26,26))
     dummy_loader = DataLoader(dummy_data, batch_size=2, shuffle=True, collate_fn=vinafood_collate_fn)
 
     for item in dummy_loader:
