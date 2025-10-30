@@ -47,8 +47,8 @@ vinafood21_test_path  = 'lab2/VinaFood21/test'
 
 vinafood21_train_dataset = VinaFood21(vinafood21_train_path)
 vinafood21_test_dataset = VinaFood21(vinafood21_test_path)
-vinafood21_train_dataloader = DataLoader(mnist_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
-vinafood21_test_dataloader = DataLoader(mnist_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
+vinafood21_train_dataloader = DataLoader(vinafood21_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
+vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
 
 
 model_1 = LeNet().to(device)
@@ -132,7 +132,15 @@ def main():
     metrics_2 = evaluate(vinafood21_test_dataloader, model_2)
     logger.info(f"Metrics for LeNet model: {metrics_2}")
 
-
+    # for image in vinafood21_train_dataset:
+    #     images = image["image"]
+    #     print(images.shape)   # <--- check shape here
+    #     break
+    # for batch in vinafood21_train_dataloader:
+    #     images = batch["image"]
+    #     print(images.shape)   # <--- check shape here
+    #     break
 
 if __name__ == "__main__":
     main()
+    

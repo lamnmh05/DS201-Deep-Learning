@@ -248,10 +248,12 @@ class GoogLeNet(nn.Module):
         out = self.conv_2(out)
         out = self.conv_3(out)
 
+        out = self.max_pool_2(out)
+
         out = self.inception_3a(out)
         out = self.inception_3b(out)
 
-        out = self.max_pool_2(out)
+        out = self.max_pool_3(out)
 
         out = self.inception_4a(out)
         out = self.inception_4b(out)
@@ -259,7 +261,7 @@ class GoogLeNet(nn.Module):
         out = self.inception_4d(out)
         out = self.inception_4e(out)
 
-        out = self.max_pool_3(out)
+        out = self.max_pool_4(out)
 
         out = self.inception_5a(out)
         out = self.inception_5b(out)
