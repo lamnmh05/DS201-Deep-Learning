@@ -1,4 +1,5 @@
 import torch
+import argparse
 from torch.utils.data import DataLoader
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from tqdm import tqdm
@@ -31,41 +32,6 @@ EPOCHS = 10
 
 batch_size = 32
 learning_rate = 0.01
-
-
-mnist_train_image_path = "lab1/mnist/train-images.idx3-ubyte"
-mnist_train_label_path = "lab1/mnist/train-labels.idx1-ubyte"
-mnist_test_image_path = "lab1/mnist/t10k-images.idx3-ubyte"
-mnist_test_label_path = "lab1/mnist/t10k-labels.idx1-ubyte"
-
-mnist_train_dataset = MNISTDataset(mnist_train_image_path, mnist_train_label_path)
-mnist_test_dataset = MNISTDataset(mnist_test_image_path, mnist_test_label_path)
-mnist_train_dataloader = DataLoader(mnist_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=collate_fn)
-mnist_test_dataloader = DataLoader(mnist_test_dataset, batch_size=1, shuffle=False, collate_fn=collate_fn)
-
-
-vinafood21_train_path = 'lab2/VinaFood21/train'
-vinafood21_test_path  = 'lab2/VinaFood21/test'
-
-vinafood21_train_dataset = VinaFood21(vinafood21_train_path)
-vinafood21_test_dataset = VinaFood21(vinafood21_test_path)
-vinafood21_train_dataloader = DataLoader(vinafood21_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
-vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
-
-
-model_1 = LeNet().to(device)
-model_2 = GoogLeNet(num_classes=21).to(device)
-model_3 = ResNet18(num_classes=21).to(device)
-model_4 = PretrainedResnet().to(device)
-
-loss_fn = torch.nn.CrossEntropyLoss()
-
-optimizer_1 = torch.optim.Adam(model_1.parameters(), lr=learning_rate)
-optimizer_2 = torch.optim.Adam(model_2.parameters(), lr=learning_rate)
-optimizer_3 = torch.optim.Adam(model_3.parameters(), lr=learning_rate)
-optimizer_4 = torch.optim.Adam(model_4.parameters(), lr=learning_rate)
-
-
 
 
 # EVALUATION FUNCTION
@@ -129,32 +95,93 @@ def train(dataloader, model, loss_fn, optimizer, epochs) -> None:
 
 
 # MAIN FUNCTION
-def main():
-    logger.info("Training LeNet model")
-    train(mnist_train_dataloader, model_1, loss_fn, optimizer_1, EPOCHS)
-    metrics_1 = evaluate(mnist_test_dataloader, model_1)
-    logger.info(f"Metrics for LeNet model: {metrics_1}")
-    print(f"Metrics for LeNet model: {metrics_2}")
+def main(task):
+    loss_fn = torch.nn.CrossEntropyLoss()
 
-    logger.info("Training GoogLeNet model")
-    train(vinafood21_train_dataloader, model_2, loss_fn, optimizer_2, EPOCHS)
-    metrics_2 = evaluate(vinafood21_test_dataloader, model_2)
-    logger.info(f"Metrics for GoogLeNet model: {metrics_2}")
-    print(f"Metrics for GoogLeNet model: {metrics_2}")
+    if task not in [1,2,3,4]:
+        print(f'Invalid task id: {task}')
+        return
 
-    logger.info("Training ResNet18 model")
-    train(vinafood21_train_dataloader, model_3, loss_fn, optimizer_3, EPOCHS)
-    metrics_3 = evaluate(vinafood21_test_dataloader, model_3)
-    logger.info(f"Metrics for ResNet18 model: {metrics_3}")
-    print(f"Metrics for ResNet18 model: {metrics_3}")
+    if task == 1:
+        mnist_train_image_path = "lab1/mnist/train-images.idx3-ubyte"
+        mnist_train_label_path = "lab1/mnist/train-labels.idx1-ubyte"
+        mnist_test_image_path = "lab1/mnist/t10k-images.idx3-ubyte"
+        mnist_test_label_path = "lab1/mnist/t10k-labels.idx1-ubyte"
+        
+        mnist_train_dataset = MNISTDataset(mnist_train_image_path, mnist_train_label_path)
+        mnist_test_dataset = MNISTDataset(mnist_test_image_path, mnist_test_label_path)
+        mnist_train_dataloader = DataLoader(mnist_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=collate_fn)
+        mnist_test_dataloader = DataLoader(mnist_test_dataset, batch_size=1, shuffle=False, collate_fn=collate_fn)
+        
+        model_1 = LeNet().to(device)
+        optimizer_1 = torch.optim.Adam(model_1.parameters(), lr=learning_rate)
 
-    logger.info("Training Pre-trained ResNet model")
-    train(vinafood21_train_dataloader, model_4, loss_fn, optimizer_4, EPOCHS)
-    metrics_4 = evaluate(vinafood21_test_dataloader, model_4)
-    logger.info(f"Metrics for Pre-trained ResNet model: {metrics_4}")
-    print(f"Metrics for Pre-trained ResNet model: {metrics_4}")
+        logger.info("Training LeNet model")
+        train(mnist_train_dataloader, model_1, loss_fn, optimizer_1, EPOCHS)
+        metrics_1 = evaluate(mnist_test_dataloader, model_1)
+        logger.info(f"Metrics for LeNet model: {metrics_1}")
+        print(f"Metrics for LeNet model: {metrics_1}")
+        
+    if task == 2:
+        vinafood21_train_path = '/kaggle/input/vinafood21/VinaFood21/train'
+        vinafood21_test_path  = '/kaggle/input/vinafood21/VinaFood21/test'
+        
+        vinafood21_train_dataset = VinaFood21(vinafood21_train_path)
+        vinafood21_test_dataset = VinaFood21(vinafood21_test_path)
+        vinafood21_train_dataloader = DataLoader(vinafood21_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
+        vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
+        
+        model_2 = GoogLeNet(num_classes=21).to(device)
+        optimizer_2 = torch.optim.Adam(model_2.parameters(), lr=learning_rate)
+
+        logger.info("Training GoogLeNet model")
+        train(vinafood21_train_dataloader, model_2, loss_fn, optimizer_2, EPOCHS)
+        metrics_2 = evaluate(vinafood21_test_dataloader, model_2)
+        logger.info(f"Metrics for GoogLeNet model: {metrics_2}")
+        print(f"Metrics for GoogLeNet model: {metrics_2}")
+        
+    if task == 3:
+        vinafood21_train_path = '/kaggle/input/vinafood21/VinaFood21/train'
+        vinafood21_test_path  = '/kaggle/input/vinafood21/VinaFood21/test'
+        
+        vinafood21_train_dataset = VinaFood21(vinafood21_train_path)
+        vinafood21_test_dataset = VinaFood21(vinafood21_test_path)
+        vinafood21_train_dataloader = DataLoader(vinafood21_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
+        vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
+        
+        model_3 = ResNet18(num_classes=21).to(device)    
+        optimizer_3 = torch.optim.Adam(model_3.parameters(), lr=learning_rate)
+        
+        logger.info("Training ResNet18 model")
+        train(vinafood21_train_dataloader, model_3, loss_fn, optimizer_3, EPOCHS)
+        metrics_3 = evaluate(vinafood21_test_dataloader, model_3)
+        logger.info(f"Metrics for ResNet18 model: {metrics_3}")
+        print(f"Metrics for ResNet18 model: {metrics_3}")
+        
+    if task == 4:
+        vinafood21_train_path = '/kaggle/input/vinafood21/VinaFood21/train'
+        vinafood21_test_path  = '/kaggle/input/vinafood21/VinaFood21/test'
+        
+        vinafood21_train_dataset = VinaFood21(vinafood21_train_path)
+        vinafood21_test_dataset = VinaFood21(vinafood21_test_path)
+        vinafood21_train_dataloader = DataLoader(vinafood21_train_dataset, batch_size=batch_size, shuffle=True, collate_fn=vinafood_collate_fn)
+        vinafood21_test_dataloader = DataLoader(vinafood21_test_dataset, batch_size=1, shuffle=False, collate_fn=vinafood_collate_fn)
+        
+        model_4 = PretrainedResnet().to(device)
+        optimizer_4 = torch.optim.Adam(model_4.parameters(), lr=learning_rate)
+        
+        logger.info("Training Pre-trained ResNet model")
+        train(vinafood21_train_dataloader, model_4, loss_fn, optimizer_4, EPOCHS)
+        metrics_4 = evaluate(vinafood21_test_dataloader, model_4)
+        logger.info(f"Metrics for Pre-trained ResNet model: {metrics_4}")
+        print(f"Metrics for Pre-trained ResNet model: {metrics_4}")
+
+
+    
 
 
 if __name__ == "__main__":
-    main()
-    
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--task", type=int, required=True, help="Select model: 1=LeNet, 2=GoogLeNet, 3=ResNet18, 4=PretrainedResNet")
+    args = parser.parse_args()
+    main(args.task)
