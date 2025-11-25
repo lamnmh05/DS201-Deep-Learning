@@ -63,7 +63,7 @@ def _run_assignment_3():
     vocab = Vocab(train_path, "words", "tags")
     model = BiLSTM(vocab)
 
-    task = TextClassificationTask(
+    task = SequentialLabelingTask(
         vocab,
         train_path=train_path,
         val_path=val_path,
