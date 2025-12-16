@@ -21,7 +21,7 @@ def _run_assignment_1():
         val_path=val_path,
         test_path=test_path,
         model=model,
-        checkpoint_path= 'checkpoint/assignment_1',
+        checkpoint_path= 'src/checkpoint/assignment_1',
         lr=1e-3
     )
 
