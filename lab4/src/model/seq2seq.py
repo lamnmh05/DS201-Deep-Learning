@@ -64,6 +64,7 @@ class Seq2Seq(nn.Module):
     def predict(self, src_ids):
         self.eval()
         batch_size = src_ids.size(0)
+        device = src_ids.device
 
         with torch.no_grad():
             # encoder
@@ -74,6 +75,7 @@ class Seq2Seq(nn.Module):
                 (batch_size, 1),
                 self.vocab.sos_id,
                 dtype=torch.long,
+                device=device
             )
 
             predictions = []
