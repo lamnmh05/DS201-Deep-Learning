@@ -42,7 +42,7 @@ class Seq2Seq(nn.Module):
         batch_size, tar_len = tar_ids.shape
         vocab_size = self.decoder.fc_out.out_features
 
-        outputs = torch.zeros(batch_size, tar_len, vocab_size)
+        outputs = torch.zeros(batch_size, tar_len, vocab_size, device=src_ids.device)
 
         _, hidden, cell = self.encoder(src_ids)
 

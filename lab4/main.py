@@ -1,4 +1,5 @@
 import argparse
+import os
 
 from src.data.vocab import Vocab
 from src.model.seq2seq import Seq2Seq
@@ -12,7 +13,10 @@ def run_assignment_1(args):
     val_path   = args.val_path
     test_path  = args.test_path
 
-    logger = setup_logger(output=args.checkpoint_path, name="assignment_1")
+    logger = setup_logger(
+        output=os.path.join(args.log_dir, "assignment_1"),
+        name="assignment_1"
+    )
 
     vocab = Vocab(
         path=train_path,
@@ -35,7 +39,7 @@ def run_assignment_1(args):
         dev_path=val_path,
         test_path=test_path,
         logger=logger,
-        checkpoint_path=args.checkpoint_path,
+        checkpoint_path=args.checkpoint_dir,
         lr=args.lr,
         batch_size=args.batch_size
     )
@@ -49,13 +53,15 @@ def run_assignment_1(args):
     print("TEST LOSS:", test_loss)
     print("TEST ROUGE-L:", test_rouge)
 
-
 def run_assignment_2(args):
     train_path = args.train_path
     val_path   = args.val_path
     test_path  = args.test_path
 
-    logger = setup_logger(output=args.checkpoint_path, name="assignment_2")
+    logger = setup_logger(
+        output=os.path.join(args.log_dir, "assignment_2"),
+        name="assignment_2"
+    )
 
     vocab = Vocab(
         path=train_path,
@@ -78,7 +84,7 @@ def run_assignment_2(args):
         dev_path=val_path,
         test_path=test_path,
         logger=logger,
-        checkpoint_path=args.checkpoint_path,
+        checkpoint_path=args.checkpoint_dir,
         lr=args.lr,
         batch_size=args.batch_size
     )
@@ -97,7 +103,10 @@ def run_assignment_3(args):
     val_path   = args.val_path
     test_path  = args.test_path
 
-    logger = setup_logger(output=args.checkpoint_path, name="assignment_3")
+    logger = setup_logger(
+        output=os.path.join(args.log_dir, "assignment_3"),
+        name="assignment_3"
+    )
 
     vocab = Vocab(
         path=train_path,
@@ -120,7 +129,7 @@ def run_assignment_3(args):
         dev_path=val_path,
         test_path=test_path,
         logger=logger,
-        checkpoint_path=args.checkpoint_path,
+        checkpoint_path=args.checkpoint_dir,
         lr=args.lr,
         batch_size=args.batch_size
     )
@@ -165,6 +174,20 @@ if __name__ == "__main__":
     parser.add_argument("--lr", type=float, default=1e-3)
 
     parser.add_argument("--checkpoint_path", type=str, default="logs")
+
+    parser.add_argument(
+        "--log_dir",
+        type=str,
+        default="logs",
+        help="Directory to save logs"
+    )
+
+    parser.add_argument(
+        "--checkpoint_dir",
+        type=str,
+        default="checkpoints",
+        help="Directory to save model checkpoints"
+    )
 
     args = parser.parse_args()
     main(args)

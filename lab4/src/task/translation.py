@@ -79,17 +79,26 @@ class Translation:
 
         loss = self.model(src_ids, tar_ids)
 
-        pred_ids = self.model.predict(src_ids)
+        # pred_ids = self.model.predict(src_ids)
+
+        if not self.model.training:
+            pred_ids = self.model.predict(src_ids)
+        else:
+            pred_ids = None
 
         references = []
         predictions = []
 
         for i in range(src_ids.size(0)):
             ref = self.vocab.decode_sentence(tar_ids[i].tolist(), self.vocab.tar_lang)
-            pred = self.vocab.decode_sentence(pred_ids[i].tolist(), self.vocab.tar_lang)
+            # pred = self.vocab.decode_sentence(pred_ids[i].tolist(), self.vocab.tar_lang)
+            pred = "" if pred_ids is None else \
+            self.vocab.decode_sentence(pred_ids[i].tolist(), self.vocab.tar_lang)
+
 
             references.append(ref)
             predictions.append(pred)
+            
 
         return loss, references, predictions
 
@@ -124,7 +133,12 @@ class Translation:
     def train(self, epochs=20, patience=5):
         best_rouge = 0
         patience_counter = 0
-        save_path = os.path.join(self.checkpoint_path, "best_model.pt")
+        
+        model_name = self.model.__class__.__name__
+        save_path = os.path.join(
+            self.checkpoint_path,
+            f"best_model_{model_name}.pt"
+        )
 
         for epoch in range(1, epochs + 1):
             self.model.train()
