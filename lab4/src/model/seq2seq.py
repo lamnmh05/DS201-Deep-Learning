@@ -79,7 +79,7 @@ class Seq2Seq(nn.Module):
             )
 
             predictions = []
-            finished = torch.zeros(batch_size, dtype=torch.bool)
+            finished = torch.zeros(batch_size, dtype=torch.bool, device=device)
 
             for _ in range(self.vocab.max_len):
                 logits, hidden, cell = self.decoder(hidden, cell, input)

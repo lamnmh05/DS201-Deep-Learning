@@ -1,0 +1,33 @@
+[17/12/2025 08:13:05] INFO: Building vocabulary
+[17/12/2025 08:13:05] INFO: Loading datasets
+[17/12/2025 08:13:06] INFO: Using device: cuda
+[17/12/2025 08:14:31] INFO: Building vocabulary
+[17/12/2025 08:14:31] INFO: Loading datasets
+[17/12/2025 08:14:32] INFO: Using device: cuda
+[17/12/2025 08:59:06] INFO: Building vocabulary
+[17/12/2025 08:59:06] INFO: Loading datasets
+[17/12/2025 08:59:06] INFO: Using device: cuda
+[17/12/2025 09:25:05] INFO: Building vocabulary
+[17/12/2025 09:25:05] INFO: Loading datasets
+[17/12/2025 09:25:06] INFO: Using device: cuda
+[17/12/2025 09:30:58] INFO: Building vocabulary
+[17/12/2025 09:30:58] INFO: Loading datasets
+[17/12/2025 09:30:58] INFO: Using device: cuda
+[17/12/2025 09:32:35] INFO: [Epoch 1] Val Loss=6.2203 | ROUGE-L=0.1130
+[17/12/2025 09:32:35] INFO: New BEST model saved (ROUGE-L=0.1130)
+[17/12/2025 09:34:11] INFO: [Epoch 2] Val Loss=5.7883 | ROUGE-L=0.1914
+[17/12/2025 09:34:11] INFO: New BEST model saved (ROUGE-L=0.1914)
+[17/12/2025 09:35:47] INFO: [Epoch 3] Val Loss=5.6357 | ROUGE-L=0.2093
+[17/12/2025 09:35:47] INFO: New BEST model saved (ROUGE-L=0.2093)
+[17/12/2025 09:37:23] INFO: [Epoch 4] Val Loss=5.5655 | ROUGE-L=0.2227
+[17/12/2025 09:37:23] INFO: New BEST model saved (ROUGE-L=0.2227)
+[17/12/2025 09:38:59] INFO: [Epoch 5] Val Loss=5.5063 | ROUGE-L=0.2272
+[17/12/2025 09:38:59] INFO: New BEST model saved (ROUGE-L=0.2272)
+[17/12/2025 09:40:35] INFO: [Epoch 6] Val Loss=5.4708 | ROUGE-L=0.2279
+[17/12/2025 09:40:35] INFO: New BEST model saved (ROUGE-L=0.2279)
+[17/12/2025 09:42:12] INFO: [Epoch 7] Val Loss=5.4707 | ROUGE-L=0.2261
+[17/12/2025 09:43:48] INFO: [Epoch 8] Val Loss=5.4897 | ROUGE-L=0.2259
+[17/12/2025 09:45:25] INFO: [Epoch 9] Val Loss=5.4962 | ROUGE-L=0.2320
+[17/12/2025 09:45:25] INFO: New BEST model saved (ROUGE-L=0.2320)
+[17/12/2025 09:47:02] INFO: [Epoch 10] Val Loss=5.5472 | ROUGE-L=0.2323
+[17/12/2025 09:47:02] INFO: New BEST model saved (ROUGE-L=0.2323)

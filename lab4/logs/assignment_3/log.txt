@@ -1,0 +1,41 @@
+[17/12/2025 08:13:44] INFO: Building vocabulary
+[17/12/2025 08:13:44] INFO: Loading datasets
+[17/12/2025 08:13:44] INFO: Using device: cuda
+[17/12/2025 08:40:57] INFO: Building vocabulary
+[17/12/2025 08:40:57] INFO: Loading datasets
+[17/12/2025 08:40:57] INFO: Using device: cuda
+[17/12/2025 08:43:06] INFO: [Epoch 1] Val Loss=6.1057 | ROUGE-L=0.1343
+[17/12/2025 08:43:06] INFO: New BEST model saved (ROUGE-L=0.1343)
+[17/12/2025 08:45:15] INFO: [Epoch 2] Val Loss=5.8398 | ROUGE-L=0.1373
+[17/12/2025 08:45:15] INFO: New BEST model saved (ROUGE-L=0.1373)
+[17/12/2025 08:47:24] INFO: [Epoch 3] Val Loss=5.7029 | ROUGE-L=0.1882
+[17/12/2025 08:47:24] INFO: New BEST model saved (ROUGE-L=0.1882)
+[17/12/2025 08:49:33] INFO: [Epoch 4] Val Loss=5.6015 | ROUGE-L=0.1805
+[17/12/2025 08:51:41] INFO: [Epoch 5] Val Loss=5.5502 | ROUGE-L=0.1784
+[17/12/2025 08:53:51] INFO: [Epoch 6] Val Loss=5.5292 | ROUGE-L=0.1968
+[17/12/2025 08:53:51] INFO: New BEST model saved (ROUGE-L=0.1968)
+[17/12/2025 08:56:00] INFO: [Epoch 7] Val Loss=5.5193 | ROUGE-L=0.1929
+[17/12/2025 08:58:08] INFO: [Epoch 8] Val Loss=5.5133 | ROUGE-L=0.1969
+[17/12/2025 08:58:09] INFO: New BEST model saved (ROUGE-L=0.1969)
+[17/12/2025 08:58:31] INFO: Building vocabulary
+[17/12/2025 08:58:31] INFO: Loading datasets
+[17/12/2025 08:58:31] INFO: Using device: cuda
+[17/12/2025 09:01:36] INFO: Building vocabulary
+[17/12/2025 09:01:36] INFO: Loading datasets
+[17/12/2025 09:01:37] INFO: Using device: cuda
+[17/12/2025 09:03:40] INFO: [Epoch 1] Val Loss=5.9991 | ROUGE-L=0.1102
+[17/12/2025 09:03:40] INFO: New BEST model saved (ROUGE-L=0.1102)
+[17/12/2025 09:05:41] INFO: [Epoch 2] Val Loss=5.7615 | ROUGE-L=0.1716
+[17/12/2025 09:05:42] INFO: New BEST model saved (ROUGE-L=0.1716)
+[17/12/2025 09:07:43] INFO: [Epoch 3] Val Loss=5.6102 | ROUGE-L=0.1649
+[17/12/2025 09:09:45] INFO: [Epoch 4] Val Loss=5.5217 | ROUGE-L=0.2038
+[17/12/2025 09:09:45] INFO: New BEST model saved (ROUGE-L=0.2038)
+[17/12/2025 09:11:46] INFO: [Epoch 5] Val Loss=5.4663 | ROUGE-L=0.2202
+[17/12/2025 09:11:46] INFO: New BEST model saved (ROUGE-L=0.2202)
+[17/12/2025 09:13:48] INFO: [Epoch 6] Val Loss=5.4436 | ROUGE-L=0.2197
+[17/12/2025 09:15:49] INFO: [Epoch 7] Val Loss=5.4393 | ROUGE-L=0.2166
+[17/12/2025 09:17:50] INFO: [Epoch 8] Val Loss=5.4578 | ROUGE-L=0.2200
+[17/12/2025 09:19:51] INFO: [Epoch 9] Val Loss=5.4730 | ROUGE-L=0.2275
+[17/12/2025 09:19:51] INFO: New BEST model saved (ROUGE-L=0.2275)
+[17/12/2025 09:21:52] INFO: [Epoch 10] Val Loss=5.5024 | ROUGE-L=0.2340
+[17/12/2025 09:21:52] INFO: New BEST model saved (ROUGE-L=0.2340)
