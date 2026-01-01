@@ -6,9 +6,9 @@ from src.tasks.text_classification import TextClassificationTask
 from src.tasks.sequential_labeling import SequentialLabelingTask
 
 def _run_assignment_1():
-    train_path = r"src\data\UIT_ViOCD\train_preprocessed.json"
-    val_path   = r"src\data\UIT_ViOCD\dev_preprocessed.json"
-    test_path  = r"src\data\UIT_ViOCD\test_preprocessed.json"
+    train_path = "src/data/UIT_ViOCD/train_preprocessed.json"
+    val_path   = "src/data/UIT_ViOCD/dev_preprocessed.json"
+    test_path  = "src/data/UIT_ViOCD/test_preprocessed.json"
 
     vocab = Vocab(train_path, "review", "domain")
 
@@ -39,9 +39,9 @@ def _run_assignment_1():
 
 
 def _run_assignment_2():
-    train_path = r"src\data\PhoNERT\train.json"
-    val_path   = r"src\data\PhoNERT\dev.json"
-    test_path  = r"src\data\PhoNERT\test.json"
+    train_path = "src/data/PhoNERT/train.json"
+    val_path   = "src/data/PhoNERT/dev.json"
+    test_path  = "src/data/PhoNERT/test.json"
 
     vocab = Vocab(train_path, "words", "tags")
 
