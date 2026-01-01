@@ -1,0 +1,2742 @@
+{
+    "0": {
+        "review": "quần đẹp nhưng cỡ lồn hơi ngắn",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "1": {
+        "review": "game hay . nhưng hy vọng admin cho thêm sự kiện lấy vàng vì mình nghĩ càng lên cấp cao thì vàng không đủ để xài . nhưng mình cho 5star",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "2": {
+        "review": "game đầy lỗi . đội ngũ kỹ thuật kém . một ngày 1sv , một sinh viên tầm 10 người chơi là nhiều . event toàn là nạp nạp và nạp",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "3": {
+        "review": "lừa đảo , ăn chặn tiền của khách hàng . tôi đã bị lừa một khoản tiền mặt do đổi trả hàng lởm , hàng kém chất lượng . tôi khuyên các bạn không nên mua sắm trên lazada . đã sử dụng ứng dụng này 2 năm , ngày càng thất vọng . đây là lần cuối tôi mua hàng qua ứng dụng này",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "4": {
+        "review": "vải đẹp , mình cao 1m55 nặng 48 không mặc cỡ mình hơi ôm nhưng cũng vừa đẹp , k ôm quá , chất lượng số với giá tiền vậy là quá rẻ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "5": {
+        "review": "kiểu dáng đẹp nhưng chất liệu hơi mỏng và nóng ! tiền nào của nấy thôi ! giao hàng đúng hẹn , nhân viên giao hàng rất nhiệt tình nhưng xem lại giá vận chuyển của lazada việt nam lúc nào cũng cao hơn tiki !",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "6": {
+        "review": "cỡ quần giao sai ạ",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "7": {
+        "review": "máy chạy rất mượt , chỉ có bộ sạc , sao không có tai nghe . . . cửa hàng ơi sao chưa kích hoạt bảo hành ?",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "8": {
+        "review": "tôi đã tiên hành mua 01 gói săn , hê thống gửi tin nhắn thanh toán thành công , tiền trong tài khoản đã bị trừ , tuy nhiên vật phẩm trong gói mua không hề được gửi vào tài khoản , yêu cầu nhà phát hành nhanh chóng có biện pháp xử lý",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "9": {
+        "review": "em đã nhận được hàng . nhưng vẫn thắc mắc không biết kem nền này có đúng chính hãng không ạ . tại trên sản phẩm có ghi xuất xứ từ china . và bao bì cũng hơi khác ạ . nếu như rất với giá bình thường giờ thì giá như này là quá được rồi . mà đây là chương trình giảm giá của hãng maybeline . tuy là mọi người fedback rất tốt",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "10": {
+        "review": "chất lượng tuyệt vời",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "11": {
+        "review": "chưa có chơi trên máy này nhưng tôi vẫn chơi máy khác phải nói đây là game hay nhất , bạn nào tìm game bắn súng mà đảo rộng thì game này sẽ là lựa chọn tốt nhất nhưng tôi vẫn bức xúc về vấn đề chọi bom giết đồng đội đề nghị nhà phát triển cho thêm trạm phát sóng hồi sinh đồng đội",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "12": {
+        "review": "hàng đúng chất lượng",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "13": {
+        "review": "đẹp mà rẻ nữa",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "14": {
+        "review": "nói chúng và cũng như nói riêng cho các anh chị em khi chơi lords mobile . thì vấn đề như các anh chị em nói là rất đúng , . , . , , , nạp tiền vào mua gói 22 . 000vnd thì giá cũng được như gói quà rất tệ . ! khi mở hộp ra thì toàn đồ rác và cũng như gói lớn nó cũng thế , . , ! mong nhà phát hành updet lại giúp em và tất cả mọi . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "15": {
+        "review": "không như mẫu",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "16": {
+        "review": "hàng ngon chất lượng tốt mỗi tội giao hàng hơi lâu",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "17": {
+        "review": "ứng dụng này rất hay và rất hữu ích cho trẻ em ; từ và hình ảnh rõ ràng ; dễ hiểu giúp các em tiếp thu bài giảng . ; cám ơn rất nhiều to monkey gì unior .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "18": {
+        "review": "trò chơi này rất hay và rất bổ ích cho trẻ em và thanh niên nó có rất nhiều các phiên bản mới mỗi phiên bản đều có một đồ vật mới lạ nữa và mini word có rất nhiều người chơi chúng ta sẽ kết bạn được với mọi người mà chúng ta chưa từng gặp và có thể kết bạn với người thân nữa mình mong sẽ có nhiều ph . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "19": {
+        "review": "đẹp lắm . vải tốt mặc rất vừa . sẽ ủng hộ cửa hàng nhiều",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "20": {
+        "review": "mih rất thích quá ẹp . . c . on cửa hàng 🥰 🥰",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "21": {
+        "review": "giao hàng rất nhanh một ngày là có , mình chỉ dùng một ít thôi mà tạo bọt ra rất nhiều , rửa mặt xong không bị khô da . rất hài lòng luôn 👍",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "22": {
+        "review": "đống gói hàng chất luộng không bị hư hỏng vận chuyển không hư hàng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "23": {
+        "review": "hàng chính hãng nên yên tâm",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "24": {
+        "review": "mình dùng anesa lọ này là lọ thứ 3 rồi và vẫn chỉ thích anesa thôi . chống nắng cực kỳ tốt nha mọi người . mà không biết có phải do hãng thay đổi cách sản xuất không mà mình thấy lọ này mình mua mùi thơm hơn 2 lọ trước ( 2 lọ trước mình mua ở tiki )",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "25": {
+        "review": "game hiện tại bị lỗi ở chổ khi vào game phải cập nhật thông tin cá nhân nhưng thông tin cá nhân không được máy chủ lưu lại khi of game vào game lại thì cập nhật thông tin cá nhân lần thứ 2 rồi of game vào lại cũng phải cập nhật thông tin cá nhân lần 3 như vậy là do máy chủ bị lỗi không lưu được th . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "26": {
+        "review": "giao hàng nhanh áo hơi rộng do mua online không thử được",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "27": {
+        "review": "khâu đóng gói sản phẩm và cách bảo quả nó gói hàng còn chưa tốt thật sự",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "28": {
+        "review": "hang đẹp gì không hình 👌",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "29": {
+        "review": "sản phẩm tốt",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "30": {
+        "review": "đặc tay dài mà giao tay ngắn 😠",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "31": {
+        "review": "máy mới , sáng đẹp",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "32": {
+        "review": "hàng tặng tẩy trang nhưng giao hàng không có chai tẩy trang",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "33": {
+        "review": "chất lượng áo tốt , may đẹp , hình in đẹp cho cửa hàng 100 đéo về chất lượng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "34": {
+        "review": "đồ vá đẹp vá được lun . giao hàng nhah . mk rất hài lòng . 😘 nên ủng hộ cửa hàng nhé 💖",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "35": {
+        "review": "hàng đẹp , rất hài lòng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "36": {
+        "review": "màu son đẹp , đóng gói cẩn thận và giao hàng nhanh .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "37": {
+        "review": "cảm giác nếu thật sự vào thị trường việt nam thì không hiểu lợi thế cạnh tranh rất với facebok ( toàn cầu ) hay zalo ( nội địa ) là gì ? ? đặc sắc duy nhất có lẽ là sticker có cái có tiếng ? ? ? ngoài ra chả thấy hơn chỗ nào : v à thêm cái emo gì i đa dạng : v đương nhiên cần money $ $ $ $ $ tuy nhiên zalo thì 50 sắc t . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "38": {
+        "review": "đặc 40 mà giao 37 cửa hàng kêu người ta sao mang . quá đáng vừa thôi . bộ ế số nào giao số đó hả hả hả hả . . . . . . . . . . . . . . hả . ? ? ? ?",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "39": {
+        "review": "sử dụng thấy được",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "40": {
+        "review": "dép đi ôm chân , dép mình mang ở gia vy là cỡ 37 còn dép này mình mang 36 , dép đẹp , nhưng mình cầm lên mình không thích thân dép",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "41": {
+        "review": "pokestops ở những vùng ngoại ô còn ít quá ! mình ở thành phố như cẩm phả còn chẳng có cái nào , đề nghị thêm những nơi như trường học , chợ làm pokestops !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "42": {
+        "review": "sau khi đã gửi lại cho twiter rằng bây giờ tôi đã 13 tuổi thì cả tuần nay vẫn chưa mở khoá ac . tại sao thế ? hiện tại chẳng khác gì một con nhà quê không biết một chút tin tức gì về thần tượng cả .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "43": {
+        "review": "dùng ok . đợi vài mã giảm giá rồi xúc thêm một em nữa về .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "44": {
+        "review": "ứng dụng đang ngày càng phát triển , nên thêm phần điền từ để kiểm tra ngữ pháp và trợ từ .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "45": {
+        "review": "rất đẹp . . nhưng hơi buồn tớ 40 ký mới mặt lần đầu lại đứt hết chỉ ở tay",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "46": {
+        "review": "đồ đẹp nhưng cửa hàng giao em sai mẫ",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "47": {
+        "review": "hàng y như hình nha , vải mặc mát lắm nha",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "48": {
+        "review": "ứng dụng tốt nhất từ trước đến giờ , mình đã tải rất nhiều ứng dụng học tiếng nhật nhưng ứng dụng này mình thấy được nhất",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "49": {
+        "review": "dùng rất hiệu quả",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "50": {
+        "review": "đăng nhập được , lướt được nhưng không hiện hình ảnh và video , gif nhỉ ? mặc dù đã thử tắt wifi và xoá đi tải lại nhưng vẫn không ổn . mong mau sửa chữa ạ : < trai nhà em sắp cán bộ đến nơi mà vẫn không thể tia được tin tức gì hết . please~~ !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "51": {
+        "review": "hàng đẹp nhưng có điều nó bị nhăng nhx không sao hàng đẹp là đuoc 😘",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "52": {
+        "review": "admin ơi , em không thể sử dụng được nút tra cứu nhanh , tại sao vậy ạ ? ? ? nó vẫn hiển thị trên màn hình điện thoại nhưng bấm vào thì lại không hiện từ điển 😭 😭 😭 mỗi lần muốn tra từ lại phải vào lại từ đầu . bất tiện lắm ạ 😭 😭 😭",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "53": {
+        "review": "nhà sản xuất làm ra tựa game này rất hay có một chi tiết nhỏ được thay đổi trong những bài hát đó là khối vuông đáp xuống trong mỗi bài nhạc nó khác nhau ở chỗ nếu như là bài khó thì cái chỗ đáp xuống sẽ nhỏ còn khi nhạc dễ thì chỗ đáp xuống sẽ có kích cỡ là lớn một chút .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "54": {
+        "review": "mua hàng khuyến mãi 99 cửa hàng ghi là có rặng son xác nhận đơn hàng có son nhưng khi giao lại không có . son thất vọng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "55": {
+        "review": "mình là thành viên hay mua gói tháng của grab . hôm nay tự nhiên đi chuyến xe xong bị khoá tài khoản . hộp thư đến lên trang thì bảo do tạo nhiều tài khoản trên một thiết bị . mấy hôm trước mình có tạo 3 tài khoản trên máy mình vậy cũng bị khoá thì tôi cũng chịu . 😊 chả có cái điều khoản nào vớ vẩn như vậy . mọi người định . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "56": {
+        "review": "thử dùng chung với các esence chứa vitamin chị mới mong bớt thâm mụn được . mình thì hay dùng esence của nhãn_hiệu c á , thích lắm luôn bớt thâm mụn mà da sáng lên nữa",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "57": {
+        "review": "mua eu 35 cửa hàng lai giao eu 37 . mang không vua",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "58": {
+        "review": "trên cả tuyệt vời , da mình là rất nhạy cảm và có mụn nhưng dùng sữa rửa mặt của nhãn_hiệu thì rất là thoải mái . và rất hài lòng .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "59": {
+        "review": "làm ăn gì kì cục vậy ? cứ 2 bên lưu số điện thoại của nhau là zalo tự động kết bạn qua lại . tôi đã đồng ý đâu . làm mất sự riêng tư của tôi . rất thất vọng . rất siêng năng làm ra những phiên bản mới . nhưng chẳng phiên bản nào ra hồn . không bị lỗi này thì mắc lỗi kia . làm ơn chế phiên bản thì để ý cảm n . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "60": {
+        "review": "mình đặt loại mới có vòi mà sao lại giao loại phiên bản cũ , và không có son tặng kèm ? ? ? ?",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "61": {
+        "review": "sao tôi chơi nó cứ kêu là kết nối lại mạng với lại những skin mà tôi mua bằng đậu nó cũng mất hết ngay cả những món đồ ví dụ như cái giường chiếu bàn ghế nó cũng mất hết với đậu cũng mất hết nhận quà cũng không cho vườn cũng vậy . tôi nghĩ là tôi đã bị hack tài khoản mong một ngày nào đó tôi sẽ được chơi lại . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "62": {
+        "review": "giống ảnh lắm ạ , hơi rộng eo xíu thoi còn lại rất được",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "63": {
+        "review": "không thấy giao bông tẩy trang tặng kèm",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "64": {
+        "review": "rất mong được sự trợ giúp . tài khoản line của tôi liên kết với facebok nhưng do tôi đã xoá ứng dụng mà quên chưa bật chuyển tài khoản . bây giờ tôi muốn đăng nhập vào tài khoản thì làm như thế nào đây ? chả lẽ một ứng dụng lớn như thế này mà lại không hiểu được một cái lỗi nhỏ này sao ? hơn nữa lại không có chỗ quên m . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "65": {
+        "review": "da mình có rất là nhiều mụn thâm từ lúc dùng sản phẩm này các nốt thâm giảm hẵn luôn , lỗ chân lông cũng thấy nhỏ lại nữa . mùi cam nhẹ nhẹ , sau khi dùng sáng dậy thấy da rất mướt .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "66": {
+        "review": "đồ đẹp lắm . mọi người yên tâm khi mua nhé",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "67": {
+        "review": "chẳng thể nói được , quả người cáo thì cũng phải đúng chỗ chứ , đang chơi game thì nhảy vào quả người cáo , chơi game thì lúc có lúc mất . đừng đổ thừa tại mạng vì mình không phải chơi một máy đâu . muốn đăng mà cũng khó nữa , nếu không cho 5star thì không đăng được . quá đắng luôn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "68": {
+        "review": "bạn có thể tiếp tục xem không nếu như cái màng hình chỉ toàn là một màu trắng ? tôi không thể lướt được mặc dù wifi rất mạnh , tình trạng này bị lâu rồi mà vẫn chưa được khắc phục . tôi chẳng hiểu cách quả nó lí của một trang mạng xã hội lớn như vầy mà lại có những sơ xuất lớn như vậy . tôi đã tải ứng dụn . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "69": {
+        "review": "tốt",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "70": {
+        "review": "giao hàng cực kì nhanh positive chất lượng sản phẩm thì khỏi bàn rồi nói chung quá ư là hoàn hảo",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "71": {
+        "review": "tôi chưa sử dụng nhưng giao hàng nhanh , tiền để mua dù vừa phải đối với người dân việt nam ta . nếu sử dụng chất lượng tốt nữa thì trên cả tuyệt vời . tạm thời tôi cho 710 điểm . 3 điểm hậu xét",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "72": {
+        "review": "aw rúng động vì hàng đẹp lắm luôn ạ <3 có đầu bấm siêu tiện luôn nói chung là quá được . có mỗi lọ kem thôi mà hộp to với chống sốc chắc chắn",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "73": {
+        "review": "cửa hàng dởm , đặt cỡ này lấy cỡ kia",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "74": {
+        "review": "giống như hình màu hàng đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "75": {
+        "review": "cứ mỗi lần vào là bắt cập nhật dữ liệu để sử dụng ofline , nhưng được 2 đến 3 đợt là nó vẫn tiếp tục bắt cập nhật dữ liệu nhưng chạy rất lâu và thậm chí là không thể sử dụng ofline được nữa , tôi đã tìm rất nhiều cách nhưng không có , cứ mỗi lần như vậy tôi lại phải gỡ và tải lại , thế này là sao , rất . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "76": {
+        "review": "tốt lắm luôn ý",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "77": {
+        "review": "chuẩn bị hàng lâu , cỡ xin lỗi 53 không không vừa , vải hơi mỏng rất với giá tiền thì tạm được .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "78": {
+        "review": "đầm đẹp nên mua",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "79": {
+        "review": "giao hàng đúng hạn , đóng gói ổn . điện thoại nguyên team , đẹp , nhờ samsung kích hoạt bảo hành giúp ạ",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "80": {
+        "review": "quá tệ . mình là khách hàng trung quốc thành của tiki từ 26032016 , tin tưởng là thế nhưng đến bây giờ càng dùng càng thấy tệ . đơn hàng tết của mình dự kiến 18022019 , đến ngày 13022019 , tiki đơn phương huỷ đơn hàng , kéo dài ngày giao đến 27022019 , đã vậy còn thiếu luôn sản phẩm của mình chứ . đây là . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "81": {
+        "review": "đẹp lắm cửa hàng ❤ cho cửa hàng 5 star 😁",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "82": {
+        "review": "đừng thay đổi giao diện nữa . mẹ tôi khó xài quá . cả tôi cũng không thoải mái nữa . đổi gì đổi miết thế . cho 3 sao là quá tốt rồi đó . còn nhiều người nữa cũng cảm thấy khó chịu với việc zing cập nhật giao diện liên tục . giao diện càng ngày càng xấu , phải chi đẹp thì thôi đi . mong nhà phát triển xem xé . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "83": {
+        "review": "ap hay và thú vị ghê , game giúp mình dễ thuộc mà lại không chán . nhưng ghi âm giọng khi mình tập đọc thì nó lại đứng không load được",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "84": {
+        "review": "hang ok , cam on cửa hàng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "85": {
+        "review": "đặt hàng dịp 1010 giảm giá , 1210 nhận hàng mới nguyên , kích hoạt máy chạy tốt kiểm tra đúng chuẩn . có lẽ giảm giá nên không có ốp lưng , tay nghe và miêng dán màn hình như samsung thường có . sử dụng đến nay 0211 rất được nhưng chưa có thông báo bảo hành điện tử , lazada chú ý dùm . tặng 5star",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "86": {
+        "review": "kêu là hàng chính hãng usa , khi check tem lại là made in china",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "87": {
+        "review": "mua 2cái 1cái chấp nhận được một cái không chấp nhận được vừa bé vải không co dãn cổ áo xấu",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "88": {
+        "review": "tôi cứ tưởng những bài hát việt nam như của no phước thịnh sẽ có ở bản vip mà lại không có , và tôi không cảm thấy được quá nhiều quyền lợi khi nâng cấp lên bản vip . ứng dụng nhạc việt hàng đầu việt nam mà những bài hát việt mới , cũ cũng không có . tôi cảm thấy thất vọng nếu zing không thay đổi chắc chắn . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "89": {
+        "review": "mặc dù mới ra cũng có nhiều chương trình kích cầu người dùng bằng cách giảm giá cước nhưng thái độ của tài xế vẫn quan trọng . là một người đi lại khá nhiều từ grap chuyển qua be tôi thấy thái độ của tài xế không được tốt cho lắm . nhiều vị trí chưa có trên bản đồ nên khác hàng phải đặt mặc định theo định vị . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "90": {
+        "review": "đôi dép ưng luôn",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "91": {
+        "review": "tốt , mình gàu khá nặng xài loại nào cũng không hết , may mà thấy quả người cáo nên mua dùng thử , hết gàu hết ngứa luôn , cảm ơn cửa hàng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "92": {
+        "review": "đã nhận được hàng hôm qua . nguyên hộp nguyên tem luôn . hàng đúng như hình ảnh . được tặng một cái ốp nhựa dẻo trắng nữa .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "93": {
+        "review": "hàng chuẩn y hình nói chung rất được và ưng ý",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "94": {
+        "review": "nhân dịp sale sinh nhật nên mua luôn cả cặp về dùng luôn 🥰 dùng lần đầu nên chưa có bình luận cụ thể",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "95": {
+        "review": "đep , rất hài lòng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "96": {
+        "review": "ứng dụng học monkey gì unior rất hay , hy vọng monkeys phát triển thêm tính năng thu âm giọng đọc của bé và đánh giá xem bé đã đọc đúng chưa , phát hiện ra nỗi sai và sửa nỗi sai cho bé thì phần mềm này càng tuyệt vời hơn nữa",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "97": {
+        "review": "rat đẹp . chưa cửa hàng 5star",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "98": {
+        "review": "game lậu , rất tệ , nạp mất tiền , có bil thanh toán mà bp chăm sóc khách hàng cũng không giải quyết , nói chuyện lật lọng , trả lời kiểu lảng tránh . gửi email cũng không được phản hồi , không có hotline hay địa chỉ văn phòng ở việt nam để khiếu nại khi mất tiền oan .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "99": {
+        "review": "giá đắt mà vẫn bán hàng giả . thực sự thất vọng !",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "100": {
+        "review": "khá tốt , giao diện đẹp , nhẹ , phản hồi tốt , nếu có ra phiên bản khác thì nên làm hẳn một cái khác để giữ phiên bản này",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "101": {
+        "review": "gói hàng kõ càng . dịch vụ rất tốt . cửa hàng rất nhiệt tình và dễ thương",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "102": {
+        "review": "nhìn chung game ok , hay tặng quà , cúng bái hàng ngày , vượt ải hay được nb . nhưng game nên xem lại cuộn cường hoá , quá chán . 11 cuộn thì được một cuộn . chán chẳng buồn nói , ít ra cũng nên 311 chứ . : ( ( ( ( ( ( thế này đua top với người ta thua hết . không chỉ mình em mà cả liên minh của em đều bị thế . nạp tiền hay kh . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "103": {
+        "review": "hàng đẹp giá rẻ tôi rất thích",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "104": {
+        "review": "lúc trước mình xài opo f5youth , mỗi khi gửi ảnh trên direct thì ảnh luôn luôn bị bể nét . giờ chuyển sang xài samsung a7 2018 , gửi ảnh vẫn bị bể nét , post video trên tài khoản cá nhân cũng bị bể nốt , nhìn rất khó chịu . admin có thể nào khắc phục tình trạng này được không ạ ?",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "105": {
+        "review": "admin làm ăn như c . nạp nhiều cho chúng mày mà chúng mày thích là khoá à . mất dạy",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "106": {
+        "review": "dịch không chuẩn lại còn hay bị lỗi . dịch tiếng việt sang nhật mà lại thành việt sang việt . quá tệ . không giống như giới thiệu . chậm . quả người cáo nhiều . đôi lúc còn dịch sai",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "107": {
+        "review": "giao hàng bị trễ , mình đặc tay dài mà giao tay ngắn còn không đúng màu nửa nên cho 3 sao thôi",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "108": {
+        "review": "hàng ok . đáng mua .",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "109": {
+        "review": "grab gần đây xảy ra nhiều vấn đề gây khó chịu cho người dùng . xử lí truyền thông kém , ví dụ như vấn đề tài xế tự nhập tiền phụ phí hay về các gói khuyến mãi , gói hội viên và thái độ của đối tác tài xế . mong rằng grab sẽ sớm khắc phục và giải quyết được tình trạng trên . có vẻ như đang là thương hiệu . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "110": {
+        "review": "hãy tự nhặt vũ khí , chọn loại vũ khí nào tốt hơn . việc tự động bắn là tốt , người chơi chỉ cần chọn hướng địch , trong phạm vi 50 mét là tự phát hiện ra địch . thiết kế theo : một là chiến thuật đồng đội , 2 là kỹ năng bán súng . game khác rất nhẹ sau cài đặt .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "111": {
+        "review": "giao hàng nhanh , đóng gói cẩn thận , có kèm theo quà tặng . trước mình có dùng màu 120 thì thấy hơi vàng da nên chuyển qua 112 🥰",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "112": {
+        "review": "nguyên seal nguyên hộp ! dùng rất tốt",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "113": {
+        "review": "sản phảm giống hình",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "114": {
+        "review": "rẽ hơn tgd 500k , nên minh mua thêm cái nua , mua dùm bà chị",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "115": {
+        "review": "dẫn đường nhanh và chính xác",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "116": {
+        "review": "thấy bảo tặng son nhưng mở ra không thấy son đâu",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "117": {
+        "review": "mới dùng thử một lần thấy đỡ ngứa hơn , không biết dùng lâu thế nào . nếu hiệu quả sẽ nhận xét tiếp",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "118": {
+        "review": "chất lượng tốt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "119": {
+        "review": "đây là chai thứ 2 của mình quá thích sản phẩm một tinh chất chị dễ bảo quả nó giá hợp lý lại hiệu quả nên thử",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "120": {
+        "review": "vải = giá , hơi kén dáng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "121": {
+        "review": "áo may xấu đường chỉ cẩu thả không đúng cỡ , mua uổng tiền",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "122": {
+        "review": "trò chơi này rất vui",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "123": {
+        "review": "cho mình đóng góp ý kiến này nhé mình rất thích game này nhưng khi mình đăng xuất hay chạy lại chương trình để chơi game được tốt hơn thì mình phải đăng nhập lại từ đầu trong khi đó thì mình cũng có đăng nhập bằng facebok và zalo nếu cứ như vậy thì công sức bỏ ra chơi trước kia thì sao ? bây giờ phải chơi lại từ đ . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "124": {
+        "review": "đặt hôm chủ nhật mà thứ hai giao luôn rồi . nhanh dễ sợ <3",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "125": {
+        "review": "làm ăn không uy tín ! giáo hàng đã qua sử dụng ! hư ! máy mới chưa xài kêu đi bảo hành ! trôi một tháng bảo hành ! anh em tranh xa ra nhé ! tin không tuỳ ! ? !",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "126": {
+        "review": "game quả nó cáo vào chơi nạp lần đầu một usd thì được 10 triệu knb . nhưng khi chơi thì không như quả nó cáo , lừa đảo",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "127": {
+        "review": "mình đã sử dụng đến chai t5 của sữa rửa mặt nhãn_hiệu r ❤ rất ưng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "128": {
+        "review": "san pham la chất liêu vai voan ma giao hang bang vai thương không hai long",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "129": {
+        "review": "hang chất luong tot",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "130": {
+        "review": "sao kêu được tặng quà mà không thấy vậy cửa hàng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "131": {
+        "review": "giao hàng nhanh lắm ạ . đóng gói cẩn thận có bao chống va đập nửa . màu thì để đánh lên mới biết nhìn ngoài vỏ màu kem thấy được mịn . còn chưa đánh lên mặt nên chưa biết có ăn da khôg thôi",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "132": {
+        "review": "game hay dễ cày tuy nhiên nên giảm thời gian hiệu ứng kỹ năng đi nó quá dài tận 4s trở lên khiến cho một số tướng có kỹ năng khống chế hay bất tử trở nên quá mạnh , khiến những tướng thủ hay tướng công không làm được gì . các màn bos ở các ải cực kì khó qua nó không tương thích với tướng mình có , cùn . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "133": {
+        "review": "nhận hàng không có quà tặng kèm như quả người cáo , thật thất vọng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "134": {
+        "review": "sử dụng mềm da",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "135": {
+        "review": "hàng y hình . chất luong được",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "136": {
+        "review": "quần đẹp . . nhưng mà mình 50 không mua cỡ mình nên mặc không vừa 😞 😞",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "137": {
+        "review": "giao nhanh , đúng tone kem nền tệp da , mà rất với màu da thật của mình thì tone hơi tối , nhưng mà không sao mình thích vậy . che khuyết điểm tốt và thấy không bị kích ứng , da mình da dầu hỗn hợp mà nền bám cũng được lâu nữa",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "138": {
+        "review": "thay đổi chóng mặt quá , chưa kịp quen đã thay đổi tiếp rồi , giờ còn mất luôn đóng góp của người dùng ( android ) . từ điển thì chủ yếu cần đủ nghĩa , cần gì thay giao diện xoành xoạch suốt ngày",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "139": {
+        "review": "grab hãy xem lại nếu không sẽ mất hoàn toàn khách hàng . đã cho khách sử dụng mã khuyến mãi và grab pay thì tài xế phải chạy cho đàng hoàng . chứ không phải khách đặt cho đã . nhìn trong bản đồ là đang ở gần địa chỉ mình đặt nhưng lại viện lý do xa quá không chạy . hoặc là không gọi báo cho khách biết l . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "140": {
+        "review": "bổ ích , dễ dùng , nên phát triển thành ứng dụng chăm sóc sức khoẻ và hồ sơ y tế của công dân",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "141": {
+        "review": "kem nền màu 220 tiệp màu da mình . hàng test ra chính hãng nên duyệt ! cả bộ sản phẩm mình hài lòng đến mức độ chụp từng cái mà fedback đây ! cảm ơn cửa hàng nhiều nha ! tết sẽ gom tiền ủng hộ cửa hàng tiếp 😘 😘 😘",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "142": {
+        "review": "hàng rất đẹp , minh sẽ ủng hộ cửa hàng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "143": {
+        "review": "nhờ thông tin truyền thông của bộ y tế mà tôi có thể nắm rõ được tình hình dịch bệnh trong nước rất hữu ích",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "144": {
+        "review": "sao mình đăng nhập facebok của mình qua cũng không được . . rồi mình lập tài khoản mới thì báo cáo bị sự cố nói thử lại mình cũng thử lại chục lần mà cứ báo cáo sự cố . . . mình cũng kien nhẫn đợi đến hôm sau vào đăng kí lại vẫn báo cáo . . . thật ức chế . . mong cần có sự chấn chỉnh cho ứng dụng thêm hoàn hảo . . cảm ơn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "145": {
+        "review": "không được đồng kiểm hàng nên dễ mua phải hàng không đúng quả người cáo , dù rằng nếu kiểm hàng thì cũng có những người sẽ không nhận hàng và người bán phải chịu chi phí ship , cái gì cũng có 2 mặt , nhưng lazada không bảo vệ người tiêu dùng thì tôi đã chuyển sang mua hàng ở cửa hàng e ( được kiểm hàng trước khi . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "146": {
+        "review": "tôi đã tải twiter , đăng ký sau đó ứng dụng bắt xác nhận số điện thoại & gửi sms . nhưng tôi đã chờ 10 ' và không nhận được sms . tôi đã đăng xuất ở bước xác thực mã sms . đến khi tôi vào lại ứng dụng , đăng nhập thì báo email không khớp với hồ sơ . đăng ký thì báo email đã được sử dụng . thế là thế nào ? ? ? mong nh . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "147": {
+        "review": "cảm giác tuyp này chất nó dính dính chứ không thấm nhanh như tuyp trước mình dùng nhi ?",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "148": {
+        "review": "nhà sản xuất quá thông minh . làm ra ap quá hay . điều mà nhiều người cần thì ap đều có hết . mong rằng sẽ ra nhiều sản phẩm tốt trong tương lai . triệu like .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "149": {
+        "review": "tốt , giao hàng nhanh , đặt ngày 19 , ngày 20 giao . chất lượng được",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "150": {
+        "review": "biết được độ thần thánh của em này nhờ các mẹ trên we bình thường retho chia sẻ . cảm giác xài khá là đã , công dụng trị thâm sạm đều rõ rệt .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "151": {
+        "review": "hàng bán không chất lượng , không đúng như hình ảnh , không giới thiệu về sản phẩm chi tiết . khi kiểm tra hàng không vừa ý , không nhận lại còn doạ khách hàng là từ chối nhận hàng nhiều lần sẽ bị khoá ứng dụng . vậy tao xoá luôn , khỏi khoá",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "152": {
+        "review": "giao hàng nhanh , chất lượng được lắm",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "153": {
+        "review": "xử lý cho khách hàng không tốt , đặt hàng thanh toán xong báo chưa có đổi món khác thừa tiền sẽ hoàn trả vào tài khoảng ví nhưng chờ hoài không thấy . liên hệ nhắn tin lên hệ thống nowvn thì không trả lời , gọi điện đến văn phòng không bắt máy . . . không đáng bao nhiêu đừng để mang tiếng lừa đảo .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "154": {
+        "review": "mới sử dụng có trắng hay không thì minh chua biet nhưng ẩm da rất được",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "155": {
+        "review": "ghép đội kiểu gì vậy . . . mới chơi lv 10 mà gặp mấy ông cố lv 40 thì làm gì để thắng . . . dở hơi . . game rác vl . . . làm về game mà làm kiểu này có ngày không có một mống nào chơi . . . bao nhiêu game rác đó chơi cũng được đấy nhưng vì một số lỗi quá gây ức chế người chơi nên xoá rồi kia kìa . . . mắt mũi không nh . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "156": {
+        "review": "tại sao tôi không mở được ứng dụng này ? ? ? sau khi ấn mở thậm chí xoá đi tải lại rồi vẫn ghi là rất tiếc , monkey gì unior đã dừng lại . nó làm cho tôi rất tức giận 😡 😡 😡 😡",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "157": {
+        "review": "sao mình tải instagram về mà không vào được vậy ạ positive ) ) do ap hay do máy vậy ạ chứ mình xoá đi tải lại mấy chục lần mà đâu có được ạ positive ) bây giờ phải làm sao ạ positive mong mọi người cho em câu trả lời vào giúp em vào được instagram chứ em xoá đi tải lục chục lần rồi mà không hề vào được ạ : ( ( (",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "158": {
+        "review": "game như cục cạc vào màm hình đen thuy huên các bạn đừng tải",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "159": {
+        "review": "admin nên tối ưu hoá hệ thống tin nhắn , để khi người khác of mình có thể nhắn tin cho họ , bây giờ khi nhắn tin xong là mình of , mà of rồi thì liên quân tự xoá hết tin đi , nhỡ có nhiều tin nhắn quan trọng nữa , mong admin xem xét và sửa lỗi hệ thống tin nhắn , xin cám ơn và chúc một ngày tốt lành ! ! !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "160": {
+        "review": "cửa hàng uy tín , rất hài lòng 👍",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "161": {
+        "review": "đóng gói cẩn thận . hàng sử dụng rất được",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "162": {
+        "review": "chất liêu đẹp .",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "163": {
+        "review": "giao hàng nhanh . tư vấn rất nhiệt tình . màu son lên không chuẩn : ( ( . hy vọng sẽ có trải nghiệm tốt hơn ở maybeline oficial cửa hàng .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "164": {
+        "review": "vân , như đã nêu trên thì đây là game sinh tồn đồi hỏi phải tập trung quốc khá nhiều , trong có pha lẩn thị giác , thị giác ở đây là sự chú ý quan sát và thính giác , và điều thứ 3 , sau nhiều ngày khảo sát trên liên quân và fre fire , cầm trên tay 6 dòng mấy hàng trung quốc quốc ram 1gp thì đã sàn lộc được khá . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "165": {
+        "review": "dat mau vang dao mau cam",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "166": {
+        "review": "chật quá lồn 49 không mặc chật",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "167": {
+        "review": "quần đẹp lắm giá lại mềm . sẽ ủng hộ cửa hàng tiếp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "168": {
+        "review": "rất được nên mua đán đồng tiền",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "169": {
+        "review": "bao bì cẩn thận , màu đẹp",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "170": {
+        "review": "hàng chính hãng . được",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "171": {
+        "review": "son sang màu đẹp , mình đặt màu đỏ đất nhưng sao quá tch ra thì màu hình như hơi có chút hồng hồng . ngoại hình son nhìn đẹp mình thích lắm",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "172": {
+        "review": "sau khi cập nhật thì trai diện nghe nhạc khi vuốt qua phải không còn danh sách nhạc đang phát nên không thể thay đổi vị trí để khi kết thúc bài này và chuyển đến hát bài kế theo ý mình muốn , rất bất tiện , và thay vào đó là chỉ hiện cái thông tin bài hát và những thứ linh tinh không cần thiết . nên thay . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "173": {
+        "review": "không giống hình cho lắm",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "174": {
+        "review": "tốt , gió hàng nhanh",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "175": {
+        "review": "nếu có phiên bản tiếng việt thì rất tốt",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "176": {
+        "review": "game lừa đảo người chơi ra even ảo dụ người chơi nạp tiền xong gần ăn được mốc thì không cho ăn even nữa và fix lại từ 20k xu lên 200k xu = ) ) đéo mẹ nhắn tin cho trang thì bảo thông cảm trang không giải quyết cũng không một lời giải thích hay bảo sẽ đền bù cho người chơi ra sao game như lờ vng toàn một bọn vừa h . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "177": {
+        "review": "ứng dụng nên thêm nhiều câu hỏi để người học có thể luyện tập . phần bài kiểm tra hiện nay mỗi khi làm được một câu , để quay lại câu trước thì rất khó , vuốt từng tý một . và khi làm sai thì không biết mình làm sai câu nào . phần ngữ pháp bên dưới mục chú thích vẫn có một số chỗ sai . từ vựng nên thêm một số câu . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "178": {
+        "review": "sản phẩm như quả người cáo , đang sử dụng hàng ngày",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "179": {
+        "review": "dù đẹp lắm cửa hàng ơi . cam on cửa hàng nhiều yêu",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "180": {
+        "review": "ứng dụng tuyệt lắm ạ nó giúp vừa học vừa chơi vừa giải trí mà còn tiếp thu nhiều thứ à học bằng ứng dụng mày sẽ không căng thẳng như trong sách vỡ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "181": {
+        "review": "nó rất hay và rất hợp với tôi cho 5star",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "182": {
+        "review": "sao hôm qua thì dùng được lắm nhưng mình vừa cập nhật ứng dụng thì toàn bộ các bài học đều không vào được bắt buộc phải nạp tiền vào mới học được vậy ? để lại như cũ như hôm qua đi hay hơn nhiều . cập nhật xong thì tệ quá hôm qua tính cho 5star nhưng giờ thì 1star thôi . gỡ bỏ ứng dụng này cho rồi .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "183": {
+        "review": "đầm này đẹp . vải mềm . đúng cỡ luôn",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "184": {
+        "review": "tôi vẫn hay dùng grab , vì các bạn luôn kết nối rộng khắp mọi khu vực trong tp . hcm , nên rất thuận tiện để sử dụng dịch vụ mỗi khi cần . nhưng phần mềm của các bạn , thay đổi làm tôi không hài lòng . grab cần cải thiện lại phiên bản mới này , rất hay bị lỗi . mỗi lần sử dụng , là tôi lại phải huỷ đi và cài . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "185": {
+        "review": "do cung đẹp chất lieu vai cung đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "186": {
+        "review": "để có quà tặng nhưng giao hàng lại không thấy hàng tặng đâu",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "187": {
+        "review": "rất tuyệt vời riêng phần thi nên chấm điểm có số hoặc chữ sẽ hây hơn chứ để ngôi sao không biết thực lực của mình đấy ạ arigato admin",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "188": {
+        "review": "đường chỉ may rất tệ thua hàng chợ 35k nữa",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "189": {
+        "review": "áo lõi sợi mà cũng gửi là sao",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "190": {
+        "review": "lazada ngày càng tệ . mình là khách hàng trung quốc thành và đã từng cho họ 5star . mua hàng thì lẹ trả hàng thì khó . và nó bắt mình mình mang hàng ra tận điểm của nó để làm thủ tục trả hàng trong khi lỗi không phải do mình . lazada không cho kiểm tra hàng khác nào mở đường cho tụi gian thương treo đầu dê b . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "191": {
+        "review": "dùng sản phẩm thấy trắng lên và thâm mờ đi rõ . sản phẩm có cồn nên ban đầu hơi nóng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "192": {
+        "review": "mình mua 3 cây nhưng cây son này giao hàng về thì bị gãy như hình . cửa hàng có thể đổi cây khác giúp mình không ?",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "193": {
+        "review": "tôi nói cho bqt vng ( bubg ) cứ nhúng tay vào nhiều tựa game rồi làm ăn như kiêu đem con bỏ chợ . có cập nhật thì sau 3 - 4 ngày . đằng này sau một tháng . đã về vng thì phải làm cho ngày càng đông đảo người chơi có phản hồi tích cực chứ . đằng này lại để người chơi phàn nàn quá nhiều về cách quả nó lý của vng . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "194": {
+        "review": "game quá tệ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "195": {
+        "review": "quần đúng như hình đẹp nhưng vãi hơi mỏng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "196": {
+        "review": "dép đẹp như hình . hài lòng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "197": {
+        "review": "bản cập nhật mới bị lỗi rất nhiều . thứ tự nhạc mặc định mình cài giờ bị thay đổi nên việc tìm bài hát mất thời gian hơn . hơn nữa , khi mình bật một bài nhạc trong danh sách thì ứng dụng chỉ phát một bài đấy xong sau đó sẽ phát nhạc online những bài mình chưa nghe bao giờ và chưa tải bao giờ . tin dùng zing . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "198": {
+        "review": "đóng gói cẩn thận , mới dùng thấy da mịn lắm .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "199": {
+        "review": "dép rất là được nhưng mà giao không đúng cỡ . lần sao giao hàng đúng cỡ nhé , đặt 2 lần toàn là giao khác cỡ hết",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "200": {
+        "review": "vải dày , co giãn tốt , mặc mát",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "201": {
+        "review": "tài khoản game của tôi trước đăng nhập bằng ios giờ tôi đăng nhập lại android lại mất nhân vật bao nhiêu tiền của tôi và bao nhiêu công sức lại mất dễ như vậy . ad giải thích đi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "202": {
+        "review": "thật sự vng khá tệ đối với mình , không biết các game kia như thế nào nhưng riêng pubg mobile mỗi lần đăng hạn sử dụng thì chậm lâu làm người chơi phải đợi , sau mỗi lần đăng hạn sử dụng lại giật lag kinh khủng . đồng thời game vẫn còn rất nhiều hack , sử dụng phần mềm thứ 3 để gian lận trò chơi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "203": {
+        "review": "mong mọi người cùng sử dụng để tham gia phòng chống dịch bệnh , ứng dụng không hao pin lắm đâu . hi vọng covid - 19 sẽ không còn để xã hội trở lại bình thường như trước đây",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "204": {
+        "review": "tôi đặt 2 đôi nhưng chỉ giao một đôi",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "205": {
+        "review": "hàng chính hãnh , ngoài cảm biến vân tay không nhậy nhà thì mọi thứ còn lại quá tốt rất với già thành",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "206": {
+        "review": "sản phẩm tốt , chất liêu đẹp y hình",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "207": {
+        "review": "như hình , cảm ơn cửa hàng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "208": {
+        "review": "tuy mới dùng được một tuần nhưng mình khá hài lòng . không bị bết dính , lúc cho ra tay xoa nhẹ có cảm giác nóng nóng , vỗ lên mặt thấm khá nhanh , mùi khá dễ chịu . thời gian giao hàng hàng nhanh .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "209": {
+        "review": "thật sự rất lười đánh giá nhưng . . . những luợt chơi sự bất ngờ ngẫu nhiên logic trong các ván chơi rất tệ , ví dụ nó cho 30 luợt chơi khi kéo các biểu tuợng đi vào ngõ cụt không à . cho 60 lượt vẫn thế . . . chơi rất ức chế . . . và có thể xoá game",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "210": {
+        "review": "lần thứ 2 mua của cửa hàng này , uy tính đúng hàn đặt sao giao vạy là được rồi . chất lượng sản phẩm cũng rất được nha mặt nạ , che khuyết điểm cũng tương đối được",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "211": {
+        "review": "tôi đã chơi game này lâu tôi đã từng đánh giá rất cao về game này nhưng sau khi cập nhật ub 15 tôi thường bị đứng hình nếu nhà sản xuất không khắc phục thì sẽ có rất nhiều người bỏ game mong nhà sản xuất khắc phục tôi chơi rất ức chế có khi tôi muốn xoá cả game rất mong nhà sản xuất để ý hộ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "212": {
+        "review": "hàng như hình , đẹp nhưng vải lỗi vài đường vẫn cứ là ô cê nhé cửa hàng 😊",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "213": {
+        "review": "gặp vấn đề trong việc bổ sung vị trí cho bài viết . ứng dụng chỉ cho chọn những vị trí gần đó , tại thời điểm đăng bài . nhiều khi sau một chuyến đi chơi , mọi người về nhà rồi mới đăng bài , nhưng bật vị trí lên thì ứng dụng chỉ cho chọn những vị trí gần đó chứ không cho chọn địa điểm mà bức ảnh hay vid . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "214": {
+        "review": "rất tốt , giao hàng siêu nhanh , máy chính hãng mới 100 % . cảm ơn vì cửa hàng uy tín",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "215": {
+        "review": "giao nhanh , hàng chuẩn mẫu , cửa hàng phuc vụ tốt",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "216": {
+        "review": "ứng dụng quá tệ . không vào được mặc dù wifi rất mạnh . mong đừng ai tải về chả được tích sự gì positive ) ) ) ) cả tuần nay không vào được . có vào được cũng vào được một hai lần . thật sự muốn xoá đi cho xong . hệ thống làm ăn kỉu vậy đó : v không hiệu quả . tôi khuyên nên bỏ facebook lite đi . bực mình thật sự 🙂",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "217": {
+        "review": "đã nhận được hàng , rất được",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "218": {
+        "review": "ứng dụng rất hay ! tuy nhiên chưa có tính năng đồng bộ lịch sử và kết quả học tập theo tài khoản giữa các thiết bị là điều đáng tiếc . cứ ôn tập ở thiết bị nào thì chỉ có trên thiết bị đó thôi nên hơi bất tiện .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "219": {
+        "review": "giao hàng nhanh chóng , đóng gói cẩn thận , rất hài lòng về sản phẩm",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "220": {
+        "review": "giao hàng nhanh . chất lượng tốt kem chống nắng dùng thích . ăn vào da khá nhanh",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "221": {
+        "review": "đây là lọ thứ 4 mình dùng chất lượng sữa rửa mặt hada labo khá tốt , rửa mặt cảm giác không hề khó chịu , sạch và cấp ẩm rất tốt .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "222": {
+        "review": "trị gàu tốt !",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "223": {
+        "review": "xin thật lòng cám ơn nhà phát triển ứng dụng này . tôi muốn kiếm một ap có thể tra và lưu lại các từ đã tra này để hằng ngày tiện theo dõi , đồng thời cũng muốn có tính năng lưu thêm một ít lưu ý . sau khi thử nhiều ứng dụng khác nhau thì đây là ứng dụng đáp ứng đúng nhu cầu và vừa ý tôi nhất . xin cám ơn . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "224": {
+        "review": "nhận được hàng rồi nhưng màu 128 nó tối hơn da của mình . mình muốn pas lại giá 140k . hoặc trao đổi màu 125 ạ đóng gói sơ xài",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "225": {
+        "review": "tại sao khi tôi định đăng story và đăng ảnh , vào thư viện tìm ảnh để đăng mà không có hiện ảnh ? mặc dù đã gỡ đi tải lại đến 3 lần rồi mà vẫn thế ? trước giờ có bị thế đâu nhưng mới một tuần mới đây lại bị như vậy ? mong sớm khắc phục lỗi này positive",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "226": {
+        "review": "giao hàng nhanh , đóng gói chắc chắn chất lượng tốt hạn sử dụng còn rất daìi",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "227": {
+        "review": "tôi đặt chuyến xe cước 660k trả bằng thẻ . khi có tài xế , grab lập tức trừ 660k của tôi . kết thúc chuyến đi phát sinh cước cầu đường 90k . lúc này grab tiếp tục trừ 750k vào thẻ , thay vì chỉ trừ 90k . 660k ban đầu grab nói ngân hàng sẽ trả lại và tôi đã đợi 20 ngày mà không thấy tiền về . tôi không chấp . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "228": {
+        "review": "san pham tot",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "229": {
+        "review": "rất hay nhưng bị lỗi ở đầu từ pea đọc to hơn mấy từ kia mà mấy từ kia thì được mà từ pea thì đọc mãi mà cứ bạn nhắn tin o không nghe thấy bé đọc bé hãy đọc to hơn nhé bực cả mình . lắm cái đọc đúng rồi nó bảo đúng rồi thế mà vẫn không có cái xoắn ở đầu bực lắm nên tôi xoá đi rồi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "230": {
+        "review": "ứng dụng grab nên xem xét lại và có một ứng dụng và một phiên bản chuẩn mực không cập nhật nhiều quá gây ra tốn nhiều bộ nhớ trong của máy tính laptop và máy tính bảng và điện thông minh và cả gây ra tốn nhiều ram rồi tốn nhiều pin điện của các thiết bị và làm các tiết bị của máy chạy chậm chạp và đơ má . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "231": {
+        "review": "giao hàng nhanh , đóng gói kỹ",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "232": {
+        "review": "màu vàng khè không giống màu trong hình .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "233": {
+        "review": "map khó , mà chỉ có một map duy nhất để đi , nên kẹt quá lâu , buf thì chỉ kiếm được khi qua màn , map thì không có bổ sung map khác để farm gold hay quest ngoài để còn kiếm buf qua màn , khó quá đâm ra nản . chính vì vậy số lượng tài khoản tham gia event chỉ có hơn trăm , quá nghèo nàn , quá ít ỏi . chung quy , . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "234": {
+        "review": "cực kì ưng ý luôn . đẹp mà rẻ dã man . mình sẽ mua tiếp . hy vọng vẫn đẹp như vậy .",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "235": {
+        "review": "khá đẹp ! tuyệt hơn mong đợi . hơi không xíu thôi chắc do quá trình vận chuyển . shiper thân thiện ! cảm ơn cửa hàng nhiều positive",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "236": {
+        "review": "hơi chật thì phải cỡ mình mà hơi nhỏ",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "237": {
+        "review": "hàng được ạ . chất lượng lắm ạ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "238": {
+        "review": "biết là quả người cáo là làm ăn nhưng hơi quá rồi đó ad . . nghèo đến nỗi đó hay sao quả người cáo đến nỗi , không cho người ta chơi game . . . vào game toàn là quả người cáo ơi là quả người cáo . tôi nghĩ thay vì magic tiles thì admin đặt tên là wed quả người cáo luôn đi . tôi không thích điều này . 1star",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "239": {
+        "review": "vui",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "240": {
+        "review": "thật sự mà nói chơi game là cách giúp chúng ta giải trí nhưng game này là tôi hết sức bực bội . mỗi lần chơi xong nó đều có quả người cáo . nó làm tôi cảm thấy phiền và tốn thời gian",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "241": {
+        "review": "có khuyết và ưu điểm khuyết không chèn giấy hay nylon bóng khí . dòng máy này không có tai nghe . ưu điểm giao hàng hoả tốc : 19g30 ' đặt nhận hàng 13g30 ' hôm sau , quá nhanh . máy nguyên seal tem chính hảng samsung việt nam không gì phải phàn nàn , cực kỳ hài lòng . đang đợi kích hoạt bảo hành cám ơn cửa hàng , cám ơn lazada giao hàng nhanh .",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "242": {
+        "review": "tone này tệp màu da",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "243": {
+        "review": "em rất có đam mê với game , thực sự game rất hay nhưng sau lần cập nhật hôm nay thì lại không thể nào tải nổi game chứ chưa nói đến việc vô game . do bản thân là học sinh nên em không có điều kiện để đầu tư điện thoại tốt để chơi . nên mong admin có thể khắc phục điều này để những người thiếu điều kiện nh . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "244": {
+        "review": "học rất tốt",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "245": {
+        "review": "game thì được rồi mà nhà phát hành game nên cần chỉ sửa về khoản quái ở các chương giảm đi sức mạnh một chút và nâng điểm kinh nghiệm rơi cao lên một chút chứ không lever thấp sẽ gần như mở rất ít tính năng nên rất nhanh chán mong nhà phát hành game đọc đến bài đánh giá này của tôi nha 😁",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "246": {
+        "review": "mackeno là từ có thể dùng để diễn tả dịch vụ chăm sóc khách hàng của tiki . tôi là khách hàng lâu năm , vật dụng trong nhà từ món nhỏ đến lớn khi cần đều mua rất nhiều từ tiki , thậm chí còn giới thiệu người thân , thay vì mua từ mấy ap khác . các lần trước mua hàng suôn sẻ , không có gì phải phàn nàn , cho . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "247": {
+        "review": "sách hack não quả có phương pháp học và ghi nhớ rất tốt , sử dụng truyện chêm độc đáo , có phát âm chuẩn , phần kiểm tra và luyện tập cũng rất là hữu ích để xem lại những từ đã học . riêng tôi chưa thấy sách nào có phương pháp học tiếng anh tốt hơn sách này , giúp tôi học lại được rất nhiều từ vựng . như . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "248": {
+        "review": "dép y hình , mang êm chân , quai mềm , rất ưng ý , chuẩn cỡ , có cái là dép không có logo hãng hoặc chữ như hình mẫu . nhưng nhìn chung dép đẹp , được",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "249": {
+        "review": "hàng đẹp , đế cao , cũng được",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "250": {
+        "review": "ap gặp vấn đề về định vị gfs . tôi không truy cập vào để đặt xe được ! đề nghị nhà cung ứng khắc phục và phản hồi ngay cho khách hàng . muốn dịch vụ lớn mạnh thì hãy tự hoàn thiện mình , đừng mơ mộng mình là con ếch lớn nhất trong cái giếng của mình ! ngay đến sự hài lòng của khách hàng cũng không thể l . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "251": {
+        "review": "đề nghị tạo thêm tính năng đánh dấu tin nhắn hàng loạt để xoá . cứ mỗi lần có bạn mới là có tin nhắn gợi ý nhắn tin . tin nhắn quan trọng thì bị trôi hết . mà xoá từng tin thì rất phiền . kiến nghị lâu rồi mà không thấy phản hồi gì cả",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "252": {
+        "review": "đặt ngày 18 . . 19 nhận được hàng . . hàng đẹp . đầy đủ . cám ơn cửa hàng .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "253": {
+        "review": "giao hàng tuy nhanh nhưng không đúng hàng chất vải xấu không đúng sản phẩm trong đó khách đặt sire mình nhưng cửa hàng gửi sire lồn thật sự khiến khách thất vọng quá .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "254": {
+        "review": "sản phẩm giao hàng nhanh , sản phẩm chất lượng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "255": {
+        "review": "hàng được đúng giá tiền",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "256": {
+        "review": "rất hài lòng với cửa hàng phục vụ nhiệt tình còn gọi cho mình trước khi gửi hàng . các áo rất vừa với các thành viên trong gia đình",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "257": {
+        "review": "vải ok . nhưng chắc do chân mình hơi dài nên quần hơi cộc một xíu . nhưng không sao . vẫn đẹp . mn nên mua vừa rẻ vừa đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "258": {
+        "review": "giao hàng nhanh chóng , dép đẹp mà rẻ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "259": {
+        "review": "đặt màu hồng giao màu đen , đặt kiểu này giao kiểu khác không gọi xem khách hàng có đồng ý không , dép được",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "260": {
+        "review": "mình mua màu 115 nhưng cũng không sáng lắm đâu nha . bạn nào undertone neutral dùng được màu này nha . chất kem lỏng dễ tán và thấy da không bị bí . lazada giao hàng nhanh và nhiệt tình . sẽ ủng hộ",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "261": {
+        "review": "tiki phát sinh lỗi lưu kho huỷ đơn hàng đã thanh toán trước của tôi . email thông báo sẽ hoàn tiền từ 1 - 3 ngày nhưng đến ngày thứ 3 tôi gọi điện lên tổng đài thì báo sẽ chuyển đến các bộ phận liên quan giải quyết . email thì không trả lời . cực thất vọng .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "262": {
+        "review": "sao mình mua 3 tuýp sữa rửa mặt luôn mà không có quà tặng kèm ạ , mình mua trong ngày 273 luôn mà",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "263": {
+        "review": "máy được lắm , nhận máy nguyên seal , máy đẹp , phụ kiện đầy đủ . mua giá trời ơi nữa nên khá ngon . . . kết nhất quả pin 6000mah .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "264": {
+        "review": "nếu giao diện và cách chơi như garena ngày trước thì đáng chơi nhé , nhưng độ hút máu đừng lố như grn thì được , như vậy game mới tồn tại lâu",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "265": {
+        "review": "màu son siêu đẹp , dùng rất mềm và mướt môi nhé mọi người , giá cả cũng phải chăng nữa . chỉ có điều vì son dưỡng nhiều nên rất nhanh trôi và dễ bám lên thành cốc . 😊 😊 😊",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "266": {
+        "review": "không có gì để phàn nàn",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "267": {
+        "review": "tốt dẹp chất lượng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "268": {
+        "review": "game lag quá trời ! bị lỗi nữa ! chạy xe lỡ vướng vào bờ rào hay cầu thì không ra được thì thôi ! đằng này đến khi chết cũng không thoát ra được là sau ? còn việc bắn súng thì lâu lâu đơ ra . . . không bắn được ! ak còn khi chơi gặp những kẻ hack sau chơi ? mong admin nghiên cứu có thể hạn chế các vấn đề trên hoặc tương tự cho . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "269": {
+        "review": "cái game lồn mẹ dì d gì cho kim cương đã lấy lại chó mà làm cày lên 300 rồi má nó",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "270": {
+        "review": "tuyệt vời , tuy nhiên phần hiển thị quả người cáo hơi lớn làm phần từ vựng hiển thị ít đi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "271": {
+        "review": "sao mình vào nhân vật gaem không được nó đứng mấy luôn vậy ạ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "272": {
+        "review": "sản phẩm đáng tiền , nhưng không có phiếu bảo hành",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "273": {
+        "review": "khá hay , tôi nhiên nên có phần ghép chữ hay gì đó . quá nhiều qc . mình đống ý xem quảng cáo để ủng hộ nhà sản xuất tuy nhiên chúng quá nhiều .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "274": {
+        "review": "cửa hàng nói cỡ mình . nặng từ 56 không trở xuống mà mình 50 không mặt không vừa",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "275": {
+        "review": "nhờ cửa hàng kích hoạt bảo hành giúp mình .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "276": {
+        "review": "mua kết hợp dầu tẩy trang và sữa rửa mặt được km tuýp sữa rửa mặt 45g nsx t5 . 2018 , dầu tẩy trang nsx t9 . 2019 . ai giống mình ham mua đèn flash sale thì xem lại tính ra giá không rẻ , sản phẩm km không kịp sử dụng thì lại bỏ .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "277": {
+        "review": "nên có nút huỷ đơn hàng nữa . cho phép người mua trò chuyện với nhà bán hàng để biết thêm thông tin sản phẩm . có tiếng là chỉ cung cấp sản phẩm chính hãng thì phải kiểm soát chất lượng sản phẩm , giá luôn cao hơn các sàn tmđt khác thì phải đi đôi với chất lượng nữa .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "278": {
+        "review": "game có tính chất giải trí và giống đời sống của chúng ta .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "279": {
+        "review": "ap tốt . cũng nhiều tính năng . nhưng về phần điều hướng còn khá nhiều thao tác gây mất thời gian người sử dụng . có vẻ ap vẫn chưa tối ưu tốt . cần khắc phục",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "280": {
+        "review": "rất hay rất bổ ích cho trẻ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "281": {
+        "review": "rất ưng rẻ mà đẹp 😘 ❤",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "282": {
+        "review": "sam pham đẹp hon gia . . . . se ung ho cửa hàng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "283": {
+        "review": "ô lấy màu trắng lại đưa màu đen . chỉ có một lớp lỏng lẻo không cứng cáp thất vọng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "284": {
+        "review": "giao hàng nhanh , mà quận cỡ mình hơi nhỏ hơn rất với cỡ mình bình thường nếu đặt nên đặt dư một cỡ rất với cỡ bình thường",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "285": {
+        "review": "chất liệu vải rất được nhé . ủng hộ cửa hàng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "286": {
+        "review": "cửa hàng rat uy tin , cam on cửa hàng nhiều gì bạn anh",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "287": {
+        "review": "em đang vào bài học mà ap cứ tự động thoát ra không ạ : ( ( ( mong ap khắc phục sớm . ! ! !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "288": {
+        "review": "chả trị thâm nám gì đâu ạ . mua phí tiền",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "289": {
+        "review": "bảo được tặng mút tán nhưng không có : ( ( ( (",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "290": {
+        "review": "thật sự mình rất thích xài instagram . mình biết gì cũng cần có tiền và dạo gần đây ap chạy quả người cáo quá nhiều đến nổi mình lướt 2 tin thì có một quả người cáo . thật sự khó chịu vì điều này . mình thích xài ap vì nó mang tính riêng tư và chỉ theo dõi những trang mình thích . việc chạy quả người cáo quá nhiều . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "291": {
+        "review": "game không vào được 6 phần trăm nhảy lên 22 xong không vào được luôn nó cứ quay hoài á vào được thì bảo không kết nối mạng . chơi xong bị ngay cái quảng cáo đập vào mặt cay quá trời . tui biết là làm vì tìn mà có phải thế ko . game nghe bảo ofline mà tắt mạng vẫn không vào được . nói chung game như củ cải đi . mong admin sửa lại . cho 3 s . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "292": {
+        "review": "giao hàng nhanh , sản phẩm chất lượng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "293": {
+        "review": "dạ em đang xài tự nhiên mở lên thấy bị khoá hết trơn 😔 xong còn bảo phải mua sách phiên bản 2019 mới được sử dụng em đang có hứng bắt đầu học cái bị vậy tụt mod luôn mong được trả lời sớm về vấn đề này quá thất vọng 😞",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "294": {
+        "review": "hàng cực chất lượng luôn , dùng được 5 ngày thấy nó mờ thâm đi hẳn , giao hàng nhanh cực , cảm ơn cửa hàng nhiều : 3",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "295": {
+        "review": "lần đầu mua hàng lazada hơi thất vọng giao hàng lâu , không có sản phẩm tặng như ảnh .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "296": {
+        "review": "nhà sản xuất nên mở các chế độ vip . vì con nhỏ không có tiền để mua . hãy vì hôm nay cho cuộc sống mai sau .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "297": {
+        "review": "ứng dụng này rất tuyệt . nó có thể biết ai và chỗ nào nhiễm covid - 19 . các bạn hãy tải ứng dụng này về và đánh giá 5star nha . cảm ơn bộ y tế .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "298": {
+        "review": "kem nền lúc mới đầu đánh lên sợ quá trắng rất với da , nhưng khi tán đều thì nó tiệp với màu da và trông khá tự nhiên . được tăng kèm miếng vệ sinh cọ . ❤",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "299": {
+        "review": "rất đẹp nha sop",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "300": {
+        "review": "1 : tải rất nhiều nhạc trong playlist nhưng vào lại không có bài nào . 2 : bản trước cập nhật và có tất cả bài hát mình thích , giờ không có nữa và có một số bài bắt phải nâng cấp tài khoản vip , nạp tiền vô 😐 hết noia nổi 😑 phải giữ lại không thì không có ứng dụng nào cả , mình thì không thích nhacuatui . mong . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "301": {
+        "review": "vải đẹp . . mặc vừa . . e hài lòng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "302": {
+        "review": "dép mỏng manh quai rất yếu mang chắc không được bền",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "303": {
+        "review": "đóng gói cẩn thận , giao hàng nhanh . mùi dễ chịu , màu sắc sáng ( trùng tệp với da ) , mịn , che phủ tốt 👍",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "304": {
+        "review": "hàng cũng tạm được , tiền nào của nấy mak ! !",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "305": {
+        "review": "xịn xò . . . m21",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "306": {
+        "review": "không giống hình",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "307": {
+        "review": "là một ứng dụng chuyên phục vụ dịch vụ ăn uống mà lại không đáp ứng được nhu cầu ăn uống của khách hàng khi không đủ giao hàng chạy đơn - lí do cho mỗi lần mình đặt đơn mà giao hàng cứ đổi liên tục . khuyến mãi thì không hơn các ứng dụng tương tự mà chất lượng dịch vụ bị đi xuống thì buồn rồi .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "308": {
+        "review": "game thì hay đó nhưng mà tôi hay gặp phải một cái lỗi gì mà tôi xoá đi tải lại 2 lần rồi mà nó vẫn bị cái lỗi đó lúc tôi vô game thì nó hiện ra một cái màn hình màu trắng rồi nó nói download failed because the external storage is ful tôi đợi nó chạy nhưng nó vẫn 0mb0mb rồi cuối cùng là 0 % không biết có . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "309": {
+        "review": "đắp xong rửa mặt thấy sạch và mịn màng , rất thích . tuy nhiên khi để lâu sẽ bị khô lại , cần có nước cân bằng để làm mềm mặt nạ",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "310": {
+        "review": "mình dùng hai sim đăng ký cả hai . mấy ngày qua mình đi qua các tỉnh miền trung quốc rồi lại về hà nội . hàng ngày kiểm tra biết không tiếp xúc với bệnh nhân nào rất an tâm .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "311": {
+        "review": "chưa thấy kết quả khi dùng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "312": {
+        "review": "đây là game giải trí hay làm cho người khác căng thẳng hơn khi phải suy nghĩ hả một bàn chơi cho quá trời thử thách mà chỉ cho từ 30 đến 20 mấy lượt có khi chỉ cho có 10 mấy lượt rồi kêu người chơi làm sao mà qua bàn nỗi mún hồi sinh mà tốn 900 xu trong khi chơi được một bàn chỉ có 100 xu đỗ lại chắc . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "313": {
+        "review": "thấy trả lời bình luận 1m5x 55 60 không vẫn vừa cỡ l , mình có 51 không mặc cỡ lồn vẫn chật ! chán chả buồn nói 😒 😒 😒",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "314": {
+        "review": "tôi thực hiện cuộc gọi với những người bạn mà máy của tôi không thể nghe người bên kia nói gì . muốn nghe được phải nhờ người bên kia gọi lại . không biết là do lỗi ứng dụng hay điện thoại nữa",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "315": {
+        "review": "đẹp , giá cả phù hợp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "316": {
+        "review": "đẹp lắm cửa hàng ơi đầm đẹp mê ly luôn sẽ ủng hộ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "317": {
+        "review": "mong xem xét lại dùm mình . chơi cày ngày cày đêm . làm nhiệm vụ và tham gia sự kiện rất nhiều . nhưng đến lúc cường hoá đồ hoặc dung luyện thì vẫn không thành công lever cao rồi mà đồ vẫn chưa ful +15 . trong khi nó nhiều tài khoản khác chỉ mới lever 20 mấy đã ful . ? ? ? do tôi không may mắn hay tại guny không biết . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "318": {
+        "review": "cửa hàng gửi hàng không đúng mẫu",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "319": {
+        "review": "game rất hay , thú vị . tuy vậy nhưng có những khó khăn về ngôn ngữ giữa các quốc gia khác nhau , và khi muốn dịch chuyển sang khu vực khác phải vướng thêm khó khăn đường hầm , . . . làm cho người chơi không thể tập hợp với hội của họ được . nói chung game hay , không chê vào đâu được",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "320": {
+        "review": "rất đẹp như hình luôn nha ❤ cửa hàng tiếp tục bán như vậy nhé 🥰 sẽ ủng hộ dài dài",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "321": {
+        "review": "tạm quai mỏng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "322": {
+        "review": "đep va hoai long",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "323": {
+        "review": "không lên được ảnh nói chung là tốt trong tầm giá . chờ kích hoạt bảo hành",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "324": {
+        "review": "máy chơi game không được tốt . cảm ứng đơ đơ",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "325": {
+        "review": "dép tốt lắm cửa hàng ạ . . . . ủng hộ cửa hàng lâu dài 😍 😍",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "326": {
+        "review": "không giống mô tả . vải mỏng không phải voan xoè như hình . thất vọng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "327": {
+        "review": "mình xài được một tuýp rồi nên mua thêm 3 tuýp để dành xài . mụn bay hẳn rồi , không còn mấy cái mụn nhảm nhái nổi li ti , viêm đáng ghét nữa . lỗ chân lông nhỏ hơn trước thấy rõ . chỉ là đốm nâu là vấn đề phức tạp , khó để triệt tiêu nó . nên tiếp tục sử dụng dài lâu xem sao .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "328": {
+        "review": "sử dụng siêu mát da mặt luôn , mới mua nên đang chờ kết quả 💕",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "329": {
+        "review": "mua giờ vàng mua một tặng một nhân sinh nhật 273 mà cuối cùng chả nhận được quà . thiệt là khó chấp nhận .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "330": {
+        "review": "thật sự khi chơi pubg lần đầu mình thấy nó rất là khó . mình có học cách người ta chơi và cũng có biết được . sau khi chơi lại thì mình thấy game này rất hay , rất đáng để trải nghiệm . dành cho những bạn nào muốn luyện tập quan sát , căn ngắm cho thật điêu luyện , tài giỏi và chính xác . vì g play chỉ có 5 . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "331": {
+        "review": "hàng rất nhanh và đóng gói rất cẩn thận",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "332": {
+        "review": "sản phẩn như mẫu . . chất liệu vải bình thương",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "333": {
+        "review": "đặt một đơn hàng thanh toán bằng airpay nhưng quán đóng cửa nên đơn hàng bị huỷ . sau đó chờ mãi vẫn không thấy tiền hoàn về tài khoản , mình có gửi phản hồi cho now nhưng cũng không thấy hồi âm gì . đã từng sử dụng now nhiều lần và từng rate 5star cho ap nhưng phải vào sửa vì lần này làm mình thất vọng th . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "334": {
+        "review": "sản phẩm dùng tốt lắm cửa hàng ơi , dùng thích cực",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "335": {
+        "review": "giúp mình kích hoạt bảo hành máy này nhé , cảm ơn cửa hàng",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "336": {
+        "review": "tuyệt vời , mua mal nên tâm . cửa hàng kích hoạt bao giờ giúp .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "337": {
+        "review": "hàng tốt pin trâu và sạc lại nhanh nữa cho cửa hàng 5star",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "338": {
+        "review": "mình xài instagram cũng lâu rồi nhưng dạo gần đây nó hay chặn thích liên tục , lại còn tự động tăng luôn cả lượt đang theo dõi của mình , mình đã cố un thích hết tất cả các bài thích nhưng mà nó vẫn chặn , còn thêm nữa là luôn liên tục tăng đang theo dõi của mình lên 50 người trong một ngày , mình mong rằng . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "339": {
+        "review": "giao hàng tốt chuẩn 5star",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "340": {
+        "review": "sao để có quà tặng nhưng lúc giao lại không có ? cần lazada xử lí ạ",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "341": {
+        "review": "rửa mặt sạch , không gây kích ứng da",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "342": {
+        "review": "quần rất 👌 👌",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "343": {
+        "review": "tôi thấy những ứng dụng như thế này rất hay vì sau những lúc mệt mỏi chúng ta có thể xem để giải trí . nhưng tôi vẫn chưa thích lắm vì trên tik tok vẫn còn rất nhiều người trẻ trâu và vô văn hoá lên chưởi thần tượng và xỉa xói người khác . . . . . . . tôi mong chuyện này sẽ được khắc phục sớm . !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "344": {
+        "review": "hàng xài mượt ngon đúng với tầm giá chơi game quá mượt",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "345": {
+        "review": "chào ad ! em đã xoá và cập nhật lại zalo rất nhiều lần nhưng vẫn không bật được chế độ thu nhỏ màn hình khi vừa gọi vừa nhắn tin , trong khi em đã bật tất cả . em có nhờ xin giúp đỡ và gửi cả ảnh nữa , nhưng không thấy bất cứ phản hồi nào . xin giúp em sữa lỗi ! em cảm ơn !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "346": {
+        "review": "hỏi cửa hàng thì cửa hàng bảo là đủ mặc nhưng mua về lại không đủ 😐",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "347": {
+        "review": "trai hang nhanh . sản phẩm tot",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "348": {
+        "review": "san pham tot , cho kich hoat bao hanh",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "349": {
+        "review": "bài học hay nhưng luôn bị không nhận diện được giọng nói . tôi đã xem thử micro của máy mình nhưng vẫn không có hiệu quả mong có thể sớm khắc phục",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "350": {
+        "review": "game khá tốt và vui nhộn . . . nhưng mình chơi tới vòng 900 mấy rồi cứ vào game là bị hỏi mật khẩu hay tài khoản gogle tùm lum . . . loay hoay đủ thứ cuối cùng cũng vào game được . . qua ngày sau cũng y như vậy . . thấy ghét . . . bỏ game luôn . . . .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "351": {
+        "review": "máy mới , kích hoạt bảo hành đúng ngày có nhắn tin thông báo từ samsung",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "352": {
+        "review": "giao hg cham một người",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "353": {
+        "review": "bây giờ mini word có vấn đề ạ tôi thấy mấy hôm nay từ cái ngày cập nhập phiên bản mới đây , vào liên thông để chơi hay bị văng ra ngoài một cách vô lí . lúc sinh tồn thì đập lúa hay tương tự các thứ khác đến mấy phút sau mới vỡ được . cần được khác phục sự cố này .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "354": {
+        "review": "màu sắc đẹp . vừa chân . giao hàng nhanh chóng .",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "355": {
+        "review": "đầm giống hình",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "356": {
+        "review": "da mình ngăm nên tìm kem nền rất khó , lại ít dùng nên không muốn bỏ tiền triệu để mua mấy hãng khác , giờ tìm được em này dùng rất được số với giá tiền",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "357": {
+        "review": "màu này không hợp với mình",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "358": {
+        "review": "cho 5star luon",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "359": {
+        "review": "game như cức đô chơi không có cái gì cả màm hình đen thuy",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "360": {
+        "review": "tiền nao của nấy",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "361": {
+        "review": "mình cần xe gấp nhưng tài xế không ai nhận cuốc , mình phải ấn bok tầm 30 lần , đến khi có bác tài nhận và đang di chuyển đến điểm đón thì bác tài lại huỷ không lý do , mình không hề nhận được một tin nhắn hay cuộc gọi thông báo lý do , chỉ thông báo tài xế đã huỷ chuyến . người dùng cũng không được đán . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "362": {
+        "review": "god stuf , đã nhận hàng !",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "363": {
+        "review": "tôi không thể chia sẻ vị trí được , mặc dù đã làm rất nhiều cách , nhưng mãi cũng chỉ nhận lại được dòng chữ không thể chia sẻ vị trí , vui lòng thử lại sau khi cài đặt dịch vụ gogle play . công việc tôi cần nó , mong bạn sẽ trả lời tôi trường hợp trên",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "364": {
+        "review": "tôi đã nhập đúng mã xác nhận điện thoại nhưng nó ghi là tôi đã nhập sai và hết lượt thử ! tôi tạo tài khoản mới = email nhưng sau khi đăng nhập nó bắt buộc phải xác thực số điện thoại !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "365": {
+        "review": "đầm đẹp . vưa ý .",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "366": {
+        "review": "còn nguyên , mượt . ai chơi frefire thì không lag màn hình cao ốm , trải nghiệm rất tuyệt . sau khi cài đặt thành công thì có bảo hành điện tử và mình cần biết thêm thông tin chi tiết",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "367": {
+        "review": "đồ đẹp vừa người nhưng vải hơi thô không được mềm .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "368": {
+        "review": "hàng đẹp sẽ ủng hộ tiếp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "369": {
+        "review": "hàng xài tốt nhưng phải gọi khiếu nại mới giao hàng sau một tuần . chưa thấy kích hoạt bảo hành điện tử .",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "370": {
+        "review": "game khó nhưng mà nhạc rất hay , kiểu chơi mới lạ và lôi cuốn người chơi tôi đánh giá 5star cho tựa game này . tái bút nên giảm độ khó lại một tí vì có một số người chơi mãi mà không có tiến triển gì thì họ sẽ xoá game đấy",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "371": {
+        "review": "sản phẩm chính hãng dùng khá ổn và giao hàng nhanh",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "372": {
+        "review": "game rất hay nhưng mình không hiểu máy mình là realme c2 232gb mà sao chơi lang kinh khủng vậy ạ . mong admin giải đáp",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "373": {
+        "review": "admin ơi , sao vào trò chơi ấy . mình đã tạo phòng và mời bạn bè vào chơi nhưng máy bạn mình cứ hiện là người chơi đã đóng phòng , nhưng em vẫn chưa đóng phòng và khi em kêu bạn mình ra tạo phòng . bạn ấy tạo phòng và em vào cũng không được , nó lại hiện là người chơi này hiện đang ở chế độ chơi đơn . hồi tr . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "374": {
+        "review": "now làm ăn ngày càng chán , món thì đắt đặt hàng thì chậm mà giá vận chuyển còn tăng cao , đặt ly trà sữa có 400 mét mà đến hai mấy ngàn tiền ship . trong khi grap vừa khuyến mại giá thấp lại còn giao hàng thấp . làm vậy thì sao mà cạnh tranh lại những đơn vị khác được . đả thế ap còn lỗi lên lỗi xuống không c . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "375": {
+        "review": "giao nhầm cỡ , chất với cửa hàng phản hồi rất chậm . không biết có xử lý cho mình không nữa . được cái vải đẹp gia rẻ",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "376": {
+        "review": "sản phẩm tốt nhưng không còn seal",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "377": {
+        "review": "đã từng dùng sản phẩm xách tay và thấy hiệu quả làm trắng cũng như trị thâm sau 2 tuần sử dụng một lần vào mỗi sáng . ai có nhu cầu trị thâm cao hơn có thể dùng 2 lần một ngày . mùi khá dễ chịu . giá trên lazada hơi mắc chỉ đợi sale mới mua được positive ) )",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "378": {
+        "review": "tại sao có một số quán ăn đã dẹp tiệm từ lâu nhưng vẫn xuất hiện trên ứng dụng . để rồi khi khách đặt món , tài xế đến quán thì phát hiện quán đóng cửa rồi lại phải xác nhận lại với khách hàng để huỷ đơn , khá phiền phức . now có cách nào khắc phục được hoặc loại bỏ các quán không còn hoạt động",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "379": {
+        "review": "chưa có kết quả quét , nhưng rất an tâm di chuyển trong mùa dịch mới . cảm ơn mọi người ! chúc việt nam đại thắng !",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "380": {
+        "review": "đặt hàng chỉ mong đợi bộ doremon thôi maket cửa hàng giao sai mẫu thất vọng quá không",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "381": {
+        "review": "hàng như hình chưa sử dụng nhưng khá ưng ý",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "382": {
+        "review": "sao lại khó chơi quá phải đợi đến 5 tiếng đồng hồ mới chơi được game này mong game cho tốc độ dễ thôi tôi thấy game quả người cáo rất hay cho nên tôi mới tải về chơi nhưng tôi vẫn đợi tôi định xoá nhưng thấy quả người cáo hay cho nên tôi mới tải về gúp tôi cho trò chơi này cho nhanh nha tôi xin chân thành c . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "383": {
+        "review": "quá tuyệt , từ nay tôi có thể tự học tiếng anh tại nhà mà không cần đến trung quốc tâm , đây đúng là một ứng dụng học tiếng anh siêu tốc . cám ơn atomic 😘 😘 😘",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "384": {
+        "review": "gửi hình ảnh và tin nhắn thoại toàn bị lỗi , yêu cầu thử lại mà vẫn không nhìn thấy hình ảnh , trước có bị vậy đâu phiên bản này lỗi nhiều quá . thậm chí wifi căng đét mà hình đại diện cũng chỉ có một màu đen xì thôi . mọi thứ rất tốt chỉ mỗi gửi hình ảnh và tin nhắn thoại cứ bị lỗi thôi ạ , hy vọng các . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "385": {
+        "review": "người ta khôi phục lại cái máy . đăng nhâp lại thì cần xác minh trên tin nhắn line . đã đăng nhập dô đâu mà thấy tin nhắn . ad xem lại nhé .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "386": {
+        "review": "hàng giao nhanh , đúng sản phẩm đặt hàng đánh giá 5star",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "387": {
+        "review": "mình mua lúc khuyến mại , mua kem nền tặng kèm son nhưng khi nhận thì chỉ có kem nền mà không có son . được không sao vì màu son quà tặng khá xấu , có tặng cũng chưa chắc đã xài đến . tuy nhiên , chai kem nền khiến mình rất thất vọng . nắp chai bị trầy xước , mở nắp ra thì đầy bụi bám quanh cổ chai nhìn khá bẩn .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "388": {
+        "review": "hàng mong quá",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "389": {
+        "review": "mình hài lòng về sản phẩm",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "390": {
+        "review": "đặt số 36 mà giao số 37 , không đúng gì hết . rồi sao mang vừa . đặt hàng một nơi giao không đúng yêu cầu số dép gì hết . 😠 😠",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "391": {
+        "review": "từ lúc tải lại line . line không thông báo lên ngoài màn hình . chỉ vào trong ứng dụng mới nhận được thông báo . dù đã cài đặt thông báo đúng chuẩn . xin cảm ơn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "392": {
+        "review": "ok . giá rẻ . hàng chính hãng . cảm ơn lazada",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "393": {
+        "review": "giao hàng nhanh đóng gói đẹp , cẩn thận , phục vụ tốt cảm ơn cửa hàng đã sale hàng , sẽ ủng hộ cửa hàng dài dài",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "394": {
+        "review": "ngồi một chỗ mà cũng bắt quá trời pokemon positive ) mà lên level rất là chậm : ( ( mình nói trước nhá , game này không dành cho mấy đứa trẻ trâu không biết chơi mà còn chửi bới cái game này , game này chỉ dành cho những bạn biết kiêng nhẫn chứ không dành cho thằng nào không biết chơi mà cứ chửi , chửi . . . game nó tội . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "395": {
+        "review": "mình dùng được gần một tháng rồi . mụn cũng giảm đôi chút , không giảm hết được ( có lẽ do tuổi dậy thì nên không tránh được ) .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "396": {
+        "review": "đặc 3 bộ giống nhau , cửa hàng đi giao 3 bộ khác nhau",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "397": {
+        "review": "sữa rửa mặt thơm có hương hoa cúc , mịn có nhiều bọt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "398": {
+        "review": "60 % giống hình",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "399": {
+        "review": "cần cải thiện , nên thêm tuỳ chọn xem giá vận chuyển theo vị trí kèm mới mô tả sản phẩm thay vì phải đợi để xem ở bước thanh toán . phần theo dõi đơn hàng chưa chi tiết cụ thể không thể theo xem hàng đã được vận chuyển tới đâu theo khoảng thời gian . về phần chất lượng phục vụ thì khá hài lòng .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "400": {
+        "review": "bộ sản phẩm nhãn_hiệu đã giúp tôi tự tin rất nhiều vì chỉ khoảng 2 tuần sử dụng đã không còn mụn , da sáng hơn . tôi vẫn sẽ tin dùng sản phẩm này . lazada cũng là nơi đáng tin tưởng khi mua hàng . tôi rất hài lòng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "401": {
+        "review": "tại sao khi tôi đăng xuất rồi đăng nhập lại thì máy lại cứ báo là đường truyền không ổn định . dù đã thử chỉnh thời gian , xoá đi tải lại nhưng vẫn không được . có cách nào khắc phục mà cần không cần khôi phục cài đặt ko ? hiện tại tôi đang rất cần để đăng nhập lại vì có việc quan trọng . mong zalo phản . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "402": {
+        "review": "quá nhiều lỗi sai . không thể chấp nhận được",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "403": {
+        "review": "điện thoại đẹp , ổn , kích hoạt bảo hành dùm mình với",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "404": {
+        "review": "ứng dụng này rất hay có thể biết được tình hình dịch bện này chuyển biến như thế nào mà để chúng ta phòng tróng",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "405": {
+        "review": "game như c game toàn bị đảo lộn xộn và các bạn sinh viên có thể đăng ký tên miền nam , có thể đăng ký tên miền nam , có thể đăng tin rao bán chung kết nối mạng xã tân phú quốc . vãi các cháu , không có một số rất nhiều , nhưng có lẽ không phải chỉ có thể là các cháu , không có gì đáng ngạc của bạn sẽ có . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "406": {
+        "review": "đồ không đúng mẫu , cỡ nhỏ . . . . ! ! !",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "407": {
+        "review": "quần đẹp ổn giá tiền phù hợp !",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "408": {
+        "review": "sản phẩm từ nhật bản nên mình rất an tâm , mua ngay đợt khuyến mại để dưỡng da sáng ai ngờ thấy mấy đốm nâu nhẹ trên da cũng biến mất lúc nào không hay",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "409": {
+        "review": "lại giao hàng không đúng hình .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "410": {
+        "review": "hay lam mong sẽ có những tính năng và trò chơi mới",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "411": {
+        "review": "đặt áo tay dài mà giao hàng sao vậy cửa hàng mà đồ được vải đẹp nên mua nha",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "412": {
+        "review": "1 . cốt truyện không có tiếng việt . why ? 2 . tôi muốn nhà phát triển thêm chức năng để các anh hùng huyền thoại có thể lên cấp hoặc thăng thiên . tất nhiên nó sẽ không mạnh bằng các anh hùng thăng thiên nhưng sẽ giúp đa dạng chiến thuật vì ngoài dùng để thăng thiên anh hùng ra , các anh hùng này không có . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "413": {
+        "review": "đẹp rất vừa 5star",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "414": {
+        "review": "quần đẹp giốg hình giao hàng nhanh",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "415": {
+        "review": "son lên chuẩn màu , nhẹ và không bị khô môi . tuy nhiên trên thân son có lỗi nhỏ như hình phía dưới , nhưng nhìn chung thì vẫn ok . nếu sử dụng hết thì chắc mình sẽ vẫn mua lại ^^ . về phía giao hàng khá nhanh , bọc hàng cẩn thận",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "416": {
+        "review": "tạm tạm",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "417": {
+        "review": "không hài lòng vì sản phẩm không có vỏ hộp nên tạo cảm giác không tin tưởng vào chất lượng sản phẩm lắm",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "418": {
+        "review": "đo chua mặt đả bo rách hang bi lỗi rất nhiều",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "419": {
+        "review": "mới dùng 4 ngày thấy da có cải thiện , mùi thơm dễ chịu . nói chung mới đầu thấy vậy là được rùi . để thử một thời gian nữa mới thấy có chất lượng hay không nhưng vẫn tin dùng hành của roto là tốt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "420": {
+        "review": "game này rất hay và ý nghĩa của chúng tôi đồng ý với điều kiện cho các bạn được phép nghe trực tuyến với giá rẻ đâu chỉ có một con người ta cũng được chị em mình quá trình gì thế này rất hay và ý nghĩa của chúng tôi làm gì mà gầy gò của chúng tôi làm gì mà không cần phải có một con người ta cũng được bấ . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "421": {
+        "review": "sản phẩm tốt giá rẻ phù hợp nhu cầu phổ thông",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "422": {
+        "review": "rat tốt cam on cửa hàng . .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "423": {
+        "review": "sản phẩm dùng rất tốt . shiper giao hàng không hài lòng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "424": {
+        "review": "đồ hoạ tuyệt vời , tương tác với trai nhân sống động , game chơi vui , không lag , không có quá nhiều nhiệm vụ chồng chất để một ngày làm mãi không hết như các game khác , chỉ là admin thêm cho tính năng bỏ qua ải với , mỗi lần đợi đánh xong trận hơi mất kiên nhẫn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "425": {
+        "review": "cảm ơn cửa hàng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "426": {
+        "review": "giao diện đơn giản , dễ sử dụng , tiện lợi , chỉ mong zalo có thể cải thiện hơn về việc lưu giữ tin nhắn , vì hiện tại , tin nhắn ở zalo sau một thời gian sẽ tự động xoá bỏ , muốn giữ lại cũng không được , mong là trong tương lai khuyết điểm này có thể khắc phục , tin nhắn sẽ được lưu vĩnh viễn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "427": {
+        "review": "rất được giao nhanh hàng tốt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "428": {
+        "review": "đẹp lắm mọi người , giống mẫu , vải rất ok , cửa hàng rất uy tín",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "429": {
+        "review": "giao hàng nhanh , đóng gói cẩn thận . sản phẩm chưa dùng nên chưa biết sao",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "430": {
+        "review": "đẹp lam ạ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "431": {
+        "review": "hàng chất lượng tốt giao hàng nhanh",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "432": {
+        "review": "giải 180000vàng cho nhóm 12 người thì không chia đều ra đầu người đâu các chế . chế góp bnhieu phần trong kết quả tích luỹ của nhóm thì chỉ được số % theo lyown gì g đó thôi . góp ít được ít . góp nhiều được nh . cấm than . tôi bị nghiện game này . cháy mất cái máy 15c chỉ vì game này . giờ phải dùng máy tệ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "433": {
+        "review": "chương trình bị lỗi : khi đang học dở bài học mà thoát ra ngoài , khi vào học tiếp thì bài học đã trạng thái hoàn thành . người học không nhận được sticker . rất bức xúc . đề nghị sớm khắc phục lỗi này",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "434": {
+        "review": "mình dùng cả bộ thấy đang tiến triển rất tốt da mịn và có sáng da mỗi tội tuýp hơi nhỏ dùng nhanh hết positive",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "435": {
+        "review": "cung cấp thông tin hữu ích . tuy nhiên còn nó điểm chưa được trực quan cần tham khảo phần mềm các quốc gia khác",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "436": {
+        "review": "sản phẩm tốt nguyên seal",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "437": {
+        "review": "làm sao để khoi phục tài khoản , trong khi máy điện thoại đang dùng đã khôi phục lại , số điện cũng không có chỉ có gmail . mà gmail không khoi phục lại được",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "438": {
+        "review": "còn bị giật lag nhiều ạ : ( ( lắm lúc vào học mà cứ chờ nó load cho được bài giảng lâu ơi là lâu , phần tài liệu cũng thường xuyên không load được nhưng bây giờ đã đỡ hơn nhiều rồi ạ .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "439": {
+        "review": "thấy bảo là 25 bài đầu miễn phí . nhưng học đến bài 3 là bắt mua . không hiểu . chăm sóc khách hàng nói một đường . ap bảo một đường . xoá ngay ứng dụng",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "440": {
+        "review": "đặt hàng mà ap cứ bắt thêm địa chỉ mới . thêm địa chỉ mới rồi nhưng vẫn không thoát ra để đặt hàng được vì nó vẫn tiếp tục bắt thêm địa chỉ mới . sau khi thêm địa chỉ mới nó lần thì cuối cùng vẫn chưa đặt hàng được vì nó vẫn không cho thoát khỏi trang thêm địa chỉ . xoá đi tải lại cũng y chang vậy . chắ . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "441": {
+        "review": "mazi có tính năng đưa flashcard ra màn hình từ widget ra giống đồng hồ ( rất thích luôn ) . cám ơn mazi nhiều lắm ! mình có một góp ý , khi mình tra từ メインビジュアル , vì không có trong từ điển mazi nên được dịch tự động , và mình không thể lưu lại trong flashcard được , nếu như từ mình lưu có thể chỉnh sửa đư . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "442": {
+        "review": "đặt 3 bộ . nhầm mẫu một bộ nhưng hàng đẹp , vải mềm",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "443": {
+        "review": "game hay , có thể gây nghiện . trước đây , game nổi tiếng vì nhẹ , mượt cho mọi loại máy , nên có số lượng người chơi đông đảo khiến cho fre fire trở thành tựa game hot nhất bấy giờ . sự nổi tiếng đó đã làm mờ mắt những người điều hành , những nhà phát triển khiến họ cứ nghĩ chiều lòng game thủ sẽ khiến g . . . bài đánh giá đầy đủ",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "444": {
+        "review": "sản phẩm chất lượng , hàng đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "445": {
+        "review": "ap rất hay bị dừng hoạt động , lỗi nhiều",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "446": {
+        "review": "đóng gói rất cẩn thận va giao hàng nhanh . lần sau sẽ tiếp tục ủng hộ",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "447": {
+        "review": "sao lúc đầu chơi bằng điện thoại tới màn 38 ( đã đăng nhập fb ) sau đó chuyển sang ipad vẫn dùng tài khoản facebook đó chơi tiếp đến tầm màn 59 , giờ đổi lại điện thoại thì nó hiện vẫn đang dừng ở 38 ạ ? dù đăng nhập lại , hay xoá đi tải lại thì nó vẫn vậy . . giờ làm sao ạ ? không lẽ chơi lại từ đầu ?",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "448": {
+        "review": "rất ok . cực kì rẻ mặt nạ nên mua",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "449": {
+        "review": "đã nhận được hàng , đầu đủ . cảm ơn cửa hàng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "450": {
+        "review": "game hút máu không no anh em nạp tiền vào bằng biếu nó chứ không được chị gì đâu bọn nó điều hành game như lồn chỉ biết ăn thôi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "451": {
+        "review": "góp ý cho người phát triển ứng dụng nhé ! thứ 1 : giọng đọc lấy từ gogle thật sự cực kì khó nghe , つむ mà nghe nó đọc thành うむ 🙂 nếu admin có tâm thì lấy giọng đọc của bản gốc trong sách nhé ! giọng đọc đó mới chuẩn thứ 2 : dịch nghĩa của từ vựng ( n3 ) - nghĩa dịch không đủ , không sát với sách mimi kara oboeru . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "452": {
+        "review": "sữa tốt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "453": {
+        "review": "vải mềm , mịn , chất lượng tuyệt vời , giao hàng nhanh , tư vấn nhiệt tình . rất hài lòng",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "454": {
+        "review": "sản phẩm chất lượng , đóng gói cẩn thận",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "455": {
+        "review": "có góp ý nhỏ cho lazada nè trước khi khách hàng có mua sản phẩm nào thì người ta chỉ nhìn thấy trên màn ảnh thoi , làm ơn trước khi giao hàng cho khách làm ơn cho khách người ta kiểm hàng dùm cái . tui củng là một trong số đó nè . tôi kêu cho kiểm hàng trước khi nhận nhân viên giao không cho còn nhằm lúc c . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "456": {
+        "review": "mã số bhxh đúng theo thông tin tra rồi mà muốn khai báo cũng không được nữa . cứ bảo sai mã bhxh , trong khi đã tra cứu rõ ràng từ trang bhxh 😠",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "457": {
+        "review": "thật sự là lần đầu tiên mình đặt xe của grab nhưng có ấn tượng rất tốt . tài xế nhiệt tình , xưng hô lịch sự , thái độ với khách hàng cũng rất tốt dù mình có nhầm lẫn một chút về vị trí của mình và bạn ấy phải đợi mất một lúc khá lâu . mình rất thích dịch vụ này 😊",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "458": {
+        "review": "ful box",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "459": {
+        "review": "game hay , trang phục đẹp , cốt truyện hấp dẫn . nhưng mumu cần ra ít sự kiện thôi vì cứ dồn dập sự kiện như thế thì kim cương moi đâu ra đây . nên cho thêm chức năng là các star có thể nhắn tin với nhau và thi đấu với nhau . cửa hàng bán nhiều trang phục hơn nữa . khi các star thi đấu thua , mumu hãy an ủi , đ . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "460": {
+        "review": "nhìn chung tạm ổn",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "461": {
+        "review": "mình rất ưng ý kem nền fit tôi và mascara của maybeline và sử dụng qua rất nhiều lần . bên giao hàng rất nhanh và hàng chuẩn ❤",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "462": {
+        "review": "game rất là hay tôi rất thích thể loại như vậy . nhưng có vấn đề là cập nhập gần đây khi vào game tôi điều bị lag , lúc hiện thị hình , lúc thì không thấy gì cả . . . mạng 4g wifi điều rất tốt nhưng mấy còn dư ram rất nhiều . . . admin có thể xem lai dùm ạ . cảm ơn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "463": {
+        "review": "ứng dụng không thể sử dụng được , tự động tắt , xin hãy khắc phục lỗi này , chân thành cảm ơn !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "464": {
+        "review": "giao hàng nhanh , đóng gói cẩn thận , kem nền thích hợp dạ dầu đánh xong tiệp vào dạ chứ không bị nhờn bóng như cushion , rất thích . canh mua giờ sale có quà tặng mà sao không nhận được quà nhỉ",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "465": {
+        "review": "nếu là ngày trước sẽ cho 5star nhưng bâyh rất hay bắt khôi phục lại , đôi khi không dùng được ofline , từ vựng còn thiếu rất nhiều và quan trọng là dịch văn bản giống hệt trên gogle dịch , toàn dịch theo chữ và sai hết cả câu , đề nghị admin có thể khắc phục ạ , cảm ơn positive",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "466": {
+        "review": "tỉ lệ rớt tướng tím thực sự quá thấp , người chơi khó cải thiện lực chiến để vượt map , nên mở nhiều event hoặc tăng tiền nhận được khi rung gren hero để chúng hữu dụng hơn . hiện tại khi thấy gren tôi chỉ thấy sự ức chế",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "467": {
+        "review": "thấy quả người cáo nạp 10nghìn được 100 triệu nạp lần đầu mà vào game sai không đúng quả người cáo vào chỉ có gió 8888 sai quá sai tưởng vào được 100 triêu ai dè không được quang vòng mà cubgx không có chỗ quay nốt buồn",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "468": {
+        "review": "rất đẹp chỉ là nhỏ quá mắc không vừa",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "469": {
+        "review": "ap hay . có bài học cụ thể , dễ hiểu . này dành cho mấy bạn mới bắt đầu học tiếng nhật 😍 😍 😍",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "470": {
+        "review": "game rất hay , đồ hoạ đẹp , tính giải chí cao . . . nói chung là hay . nhưng thật sự việc đăng hạn sử dụng phiên bản mới liên tục và game ngày cành chiếm nhiều dung lượng bộ nhớ , yêu cầu cấu hình máy quá cao khiến cho những người chơi bình dân không có tiền mua điện thoại xịn không thể chơi game . game là để mọi ngư . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "471": {
+        "review": "đóng gói cẩn thận tối qua đặt sáng nay có khá tốt chưa dùng nên chưa biết kết quả",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "472": {
+        "review": "hàng tốt 👍 👍 👍",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "473": {
+        "review": "màu son không vưa ý mình . son lên bóng quá . mình không hợp với loại son bóng , không ưng ý . mong được hỗ trợ đổi trả ạ ! !",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "474": {
+        "review": "một bộ đồ mà chưa đến 50 ngàn thì quá xá rẻ mọi người ơi . vải coton mền . mặc mát . cảm ơn cửa hàng sẽ ủng hộ tiếp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "475": {
+        "review": "tài khoản đang sử dụng tự nhiên bị hết phiên đăng nhập . xong rồi đăng nhập lại bị mật khẩu sai , ấn quên mật khẩu thì lại thấy email của người lạ , còn không sử dụng được số điện thoại để đăng nhập mà lấy lại mật khẩu . admin xem lại xem nào .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "476": {
+        "review": "sao facebok của tôi vẫn đang bình thường tự nhiên xác nhận danh tính bắt phê duyệt trên máy tính hoặc điện thoại sử dụng trước đó mà không cho cái cách xác nhận khác , đến khi phê duyệt rồi mà cũng không được thế , vậy coi luôn mất cái nick . làm ăn như này thì làm sao",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "477": {
+        "review": "giao hàng nhanh , son màu đẹp",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "478": {
+        "review": "được mình nhận được váy rồi , giống hình ! tuy nhiên hỏi chật",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "479": {
+        "review": "hơn cả mong đợi",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "480": {
+        "review": "giao nhanh hàng gói chắc chắn",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "481": {
+        "review": "tôi cập nhập thường xuyên bản ứng dụng tiktok , và còn gỡ và cài đặt lại nhiều lần nhưng lại không tải được phiên bản mới nhất của tiktok . không chỉ riêng tôi những bình luận của một số bạn trên video tiktok cũng không có được những tính năng mới nhất . không hiểu vì sao ?",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "482": {
+        "review": "sản phẩm tuyệt vời . tuy nhiên đơn vị vận chuyển chậm trễ , sản phẩm gói không có chống va chạm .",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "483": {
+        "review": "giao hàng rat nhanh . hài lòng",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "484": {
+        "review": "rất hữu dụng",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "485": {
+        "review": "da nhạy cảm không nên dùg , dị ứg",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "486": {
+        "review": "áo mang đẹp , vải mịn mặc đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "487": {
+        "review": "bài học đa dạng , thiết thực . có bài tập test độ phản xạ nhớ từ vựng rất hay",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "488": {
+        "review": "dùng được 3 lần là son gãy ngay lập tức . bù lại màu rất đẹp , hợp tone da trung quốc bình , chất son cũng tốt , hợp với mấy bạn mới trang điểm màu nude , giá rẻ nên nhớ mua kèm cây cọ để tránh trải nghiệm gãy son . với mình thì sẽ không mua lại dòng nào giá thấp của maybeline ( có thể do điều kiện bảo quả nó và vận chuyển ở nhiệt độ cao nên son dễ gãy ) .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "489": {
+        "review": "có thêm phần video minh hoạ từ mà mình đang tìm kiếm khá là hay đấy . mỗi tội nhiều lúc dịch nhiều từ nghĩa rất khó hiểu . như kiểu dịch từ nhật sang anh rồi từ anh sang việt chứ không phải trực tiếp dịch từ nhật sang viêt . nói chung là ổn đấy bro",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "490": {
+        "review": "rất tốt nhưng phải đăng nhập nên không thích",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "491": {
+        "review": "hàng rất đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "492": {
+        "review": "phải có tiếng việt nữa thì quá được",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "493": {
+        "review": "quần đẹp lắm luôn ạ nhưng bị cái em ốm quá lưng hơi rộng thôi chứ chở xuống vừa y hết 🥰 🥰",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "494": {
+        "review": "trò chơi rất hay tôi hy vọng game sẽ ngày càng phát triển nhiều tính năng mới về ar tương tác với pokemon . và tôi muốn game cải thiện bổ sung thêm pokestops vào lv 35 và bổ sung gym vào lv 40 để game thu hút và dễ dàng hơn cho những người mới chơi , sinh sống ở nơi nông thôn ít người .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "495": {
+        "review": "đang chơi thì bị treo máy do mất kết nối , trong khi mạng và các thiết bị khác vẫn kết nối bình thường , chơi game khác cũng không bị trường hợp này , phải tắt máy khởi động lại mới hết ! đề nghị nhà phát hành xem lại !",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "496": {
+        "review": "xiêu đẹp luôn",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "497": {
+        "review": "màu lên đẹp , mượt , nhiều dưỡng .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "498": {
+        "review": "game hay nhung ở nông thôn không co nha thi đấu hoi chan mong nha san xuat cho cac nha thi đấu ở nông thôn để cac ban ở nông thôn choi pokemon go có thể thi đấu với nhau và cho nhiều pokemon đe cac ban trẻ co thể thu phục được nhiều pokemon để dễ dàng thi đấu tránh gây ra tai nạn . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "499": {
+        "review": "dép rất đẹp",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "500": {
+        "review": "tôi không thể sử dụng tính năng đặt biệt danh trong nhóm và không sử dụng được tính năng để nhạc trong trang cá nhân . trong khi bạn bè tôi đều sử dụng được còn tôi thì không sử dụng được người khác thì thấy bản cập nhật còn tôi thì không có bản cập nhật . một lỗi tồi tệ mong admin khắc phục giúp tôi",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "501": {
+        "review": "vài mềm mát đúng mô tả . nên mua ạ",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "502": {
+        "review": "học rất vui",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "503": {
+        "review": "hàng giao không giống mẫu",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "504": {
+        "review": "hàng đóng gói cẩn thận .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "505": {
+        "review": "không muốn cho 1star đâu vì dù sao cũng là ap do người việt phát triển . nhưng thật sự không dùng được , mở ap lên tự động hiện số điện thoại 11 số rồi báo không hợp lệ , được thì mình sửa thành 10 số thôi . nhưng khi gửi qua điện thoại mã otp thì mình vào tin nhắn xem mã , trở lại ap thì quay về màn hình hiện 11 số . thử . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "506": {
+        "review": "chỗ đế dép bị lệch và không nhấn xuống được , thêm phần keo bị hở nhiều chỗ . hơi thất vọng nhưng bù lại mình thấy cửa hàng cũng rất nhiệt tình , cảm ơn cửa hàng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "507": {
+        "review": "xấu . chất vải tệ .",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "508": {
+        "review": "hay nhưng mà tôi nghĩ nên thêm phần ngữ pháp vào để khi người dùng có điền sai ngữ pháp thì nhắc nhỉ cho họ rút kinh nghiệm , nói chung là thêm ngữ pháp vào . ví dụ : người dùng cần dịch she would thích some milk , có thể họ muốn dịch vậy vì họ muốn kiểm tra xem thích hay là likes , có sao hay là không có . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "509": {
+        "review": "đã mua lần thứ hai",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "510": {
+        "review": "hạn sử dụng 2020 là sao cửa hàng ? ? ?",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "511": {
+        "review": "mình đặt ngày 9 . 9 . thấy quả người cáo có tặng son nhưng không nhận được son .",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "512": {
+        "review": "micro phone is không working properly , when i cal someone , they can ' t hear tôi clearly , rất i returned , buy they re gì ect return , i bought this phone to use as company phone , i have to sản phẩm eak with many customer , now i have problem , please consider exchange with new one",
+        "label": "complaint",
+        "domain": "mobile"
+    },
+    "513": {
+        "review": "hàng chất lượng tốt , lazada giao hàng đúng hẹn , nhanh , hàng nguyên seal , nguyên hộp . . . thích lazada đóng gói cẩn thận , sản phẩm tốt , mua được đúng đợt giảm giá nhưng tiếc cái lazada không cho mã fre giao hàng cho đơn hàng này , buồn chút .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "514": {
+        "review": "rất với giá tiền thì sản phẩm khá là ổn",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "515": {
+        "review": "đúng mẫu , giao đúng hạn , sdung tốt",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "516": {
+        "review": "hàng đẹp nhưng hơi rộng . không sao vải được chuẩn",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "517": {
+        "review": "hình hộp xanh lúc gửi lại màu xanh lẫn trắng vỏ sản phẩm không giống hình",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "518": {
+        "review": "dịch sai bét thử dịch siêu nhân da siêu anh hùng bó tay ứng dụng như star star star star",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "519": {
+        "review": "quá tệ , đặt cỡ 35 thì giao 36 , dép bong tróc , đế dơ giống dép đã sử dụng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "520": {
+        "review": "đẹp , mua lúc sinh nhật nên khá rẻ rất với hiệu thuốc .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "521": {
+        "review": "không biết cơ chế định vị vủa grab hoạt động theo kiểu gì mà tài xế ngay bên cạnh thì không bắt được mà bắt tài xế ở xa lắc xa lơ , làm khách phải chờ lâu , mà bản thân tài xế cũng phải chạy một đoạn đường khá xa mới đến được chỗ của khách . làm khổ cả 2 phía , vừa mất thời gian của cả 2 , vừa làm tốn xăng khô . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "522": {
+        "review": "đóng hàng cẩn thận , giao hàng nhanh , đặt 2 hôm đã nhận được hàng rồi , sản phẩm tốt .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "523": {
+        "review": "quan chua mat da rac",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "524": {
+        "review": "dép còn bao vớ tùm lum",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "525": {
+        "review": "hàng rât dẹp với tốt",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "526": {
+        "review": "hàng đẹp cửa hàng ơi",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "527": {
+        "review": "đóng gói thì được , giao hàng nhanh nhưng - nắp hộp kem bị vỡ - mùi như men rượu - tán lên da có tệp nhưng sau vài phút nó bị bay đi đâu mất không có được như khi vừa tán",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "528": {
+        "review": "nhiều sản phẩm giá rẻ nhưng phí vận chuyển thì cao , nhiều khi sản phẩm rất với giá ở ngoài thị trường rẻ hơn 15 , 20 ngàn nhưng phí vận chuyển thì 48 . 000 , vậy thì mua trên lazada làm gì ? đề nghị coi lại chính sách giao hàng . nhiều khi muốn mua sản phẩm trên lazada nhưng nhìn phí giao hàng lại thôi .",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "529": {
+        "review": "tặng thì tặng không tặng thì thôi chơi kiểu ma trận khách hàng bó tay . . tóm lại lần đầu mua hàng thất vọng",
+        "label": "complaint",
+        "domain": "cosmetic"
+    },
+    "530": {
+        "review": "dù tốt nhẹ , che nắng mưa rất tốt !",
+        "label": "non-complaint",
+        "domain": "fashion"
+    },
+    "531": {
+        "review": "đt . . sai . . tốt . . ok . . mượt . . pin . . trầu đã . . sai . . được . . 3ngay . . vẫn . . chưa . . thấy . . trục . . trặc . . gì",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "532": {
+        "review": "mình có một mẹo hay cho các bạn muốn bắt nhiều pokemon nè , các bạn tạo cho mình một pokemon budy rồi chụp ảnh nếu có pokemon xuất hiện trong ảnh thì bạn chỉ cứ việc tìm xung quanh đó thôi ! game rất hay nên mình cho 555555555555555999999999 sao và like !",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "533": {
+        "review": "rất hay có tất cả bài hát và ca sĩ trong hát đó nó có tất cả bài hát trên thế giới nhưng nó không lưu lại các bài hát mình đã từng nghe mong người tạo ra cái này sửa lại không sửa lại cũng được không sao hết nhưng cái này cũng rất hay nên mình thấy 5star là hợp nhất",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "534": {
+        "review": "vải mặc hơi nóng",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "535": {
+        "review": "ok . mượt . pin khoẻ . giao hàng siêu nhanh . chưa đến 24h .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "536": {
+        "review": "không biết thế nào nữa",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "537": {
+        "review": "giao hàng rất nhanh . đóng gói cẩn thận",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "538": {
+        "review": "đặt từ chiều hôm trước , tới sáng hôm sau đã nhận được hàng , hàng đóng gói cẩn thận , nguyên seal , tự kích bảo hành . nói chung rất tuyệt .",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "539": {
+        "review": "đẹp lắm luôn á đúng mặc dù hơi khác nhưng son lên màu vẫn bóng và khá đẹp",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "540": {
+        "review": "rất thích mua hàng trên lazada vì có gian hàng chính hãng nên mua hàng rất yên tâm . đóng gói lại cẩn thận . hy vọng tất cacr các mặt hàng đều được kiểm soát về chất lượng trước khi giao bán trên lazada để mọi người đều hài lòng . cảm ơn nhiều sẽ ủng hộ lâu dài .",
+        "label": "non-complaint",
+        "domain": "app"
+    },
+    "541": {
+        "review": "ao đẹp , quan qua xau",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "542": {
+        "review": "game này mình thấy có mấy cái bất hợp lý . một tên nhân vật và tên bang hội : người dùng chỉ đặt được ký tự thường , không chứa ký được các ký tự đặt biệt . 2 hồ sơ cá nhân thì khi khởi tạo thì có cập nhật hs : tên tuổi địa chỉ nhưng người dùng thì lại không cho xem học sinh của mình trên game bao gồm ngày tạo tài kh . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "543": {
+        "review": "game rất hay mang phong cách của game chiến thuật aoe nhưng số loạt quân lính quá ít nên không đủ để người chơi cảm thấy sức mạnh của quân đội và cần phong cách riêng cho quân đội của những quốc gia châu á như nhật bản sẽ khiến gamer không cảm thấy nhanh chán",
+        "label": "complaint",
+        "domain": "app"
+    },
+    "544": {
+        "review": "máy dùng ok . có kính cường lực và ốp lưng nữa thì tuyệt !",
+        "label": "non-complaint",
+        "domain": "mobile"
+    },
+    "545": {
+        "review": "thấy ai cũng đánh giá tốt nên tin tưởng đặt hàng , zay mà cửa hàng làm ăn không uy tín gì hết , thất vọng quá ( đặt cỡ 35 , màu kem mà cửa hàng lại giao cỡ 40 màu đen , làm sao mang ) đề nghị giải quyết nhanh dùm , không cho người ta kiểm hàng thì làm ăn cũng phải đàng hoàng chứ , có đâu cái kiểu lừa gạt đó",
+        "label": "complaint",
+        "domain": "fashion"
+    },
+    "546": {
+        "review": "giao hàng nhanh , đủ sản phẩm + quà tặng , đóng gói cẩn thận .",
+        "label": "non-complaint",
+        "domain": "cosmetic"
+    },
+    "547": {
+        "review": "ủa , rồi giải quyết dùm em chưa , em sợ hệ điều hành em cũ nên ap mới đòi đăng hạn sử dụng 10000000001 lần một giây nên em mới nâng cấp lên hđh mới nhất rồi mà ap vẫn đòi em đăng hạn sử dụng là sao kìa , rồi đăng hạn sử dụng thì em đăng hạn sử dụng thôi mà cứ bị lỗi hoài vậy , rồi định không cho em xài nữa chứ gì , vậy thì nói tiếng không cho . . . bài đánh giá đầy đủ",
+        "label": "complaint",
+        "domain": "app"
+    }
+}
